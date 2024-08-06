@@ -305,7 +305,7 @@ export const productListcontainerjson={
                     "id": "750232",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pongal.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
                       "text": "Pongal",
                       "type": "WEBLINK"
                     },
@@ -327,7 +327,7 @@ export const productListcontainerjson={
                     "id": "749786",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Omelette.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
                       "text": "Omelette",
                       "type": "WEBLINK"
                     },
@@ -349,7 +349,7 @@ export const productListcontainerjson={
                     "id": "750199",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paniyaram.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80473?collection_id=80473&tags=layout_ux4&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80473?collection_id=80473&tags=layout_ux4&type=rcv2",
                       "text": "Paniyaram",
                       "type": "WEBLINK"
                     },
@@ -371,7 +371,7 @@ export const productListcontainerjson={
                     "id": "749805",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Appam.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80352?collection_id=80352&tags=layout_BAU_Contextual%2Cappam%2Clayout_ux4&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80352?collection_id=80352&tags=layout_BAU_Contextual%2Cappam%2Clayout_ux4&type=rcv2",
                       "text": "Appam",
                       "type": "WEBLINK"
                     },
@@ -393,7 +393,7 @@ export const productListcontainerjson={
                     "id": "750228",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_samosa.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
                       "text": "Samosa",
                       "type": "WEBLINK"
                     },
@@ -415,7 +415,7 @@ export const productListcontainerjson={
                     "id": "749862",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_bonda.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
                       "text": "Bonda",
                       "type": "WEBLINK"
                     },
@@ -437,7 +437,7 @@ export const productListcontainerjson={
                     "id": "750201",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
                       "text": "Paratha",
                       "type": "WEBLINK"
                     },
@@ -459,7 +459,7 @@ export const productListcontainerjson={
                     "id": "750554",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Uttapam.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
                       "text": "Uthappam",
                       "type": "WEBLINK"
                     },
@@ -481,7 +481,7 @@ export const productListcontainerjson={
                     "id": "749760",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Khichdi.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80455?collection_id=80455&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
+                      // "link": "https://www.swiggy.com/collections/80455?collection_id=80455&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
                       "text": "Khichdi",
                       "type": "WEBLINK"
                     },
@@ -522,7 +522,7 @@ export const productListcontainerjson={
                       "id": "750591",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/83639?collection_id=83639&search_context=biryani&tags=layout_CCS_Biryani&type=rcv2",
                         "text": "Biryani",
                         "type": "WEBLINK"
                       },
@@ -544,7 +544,7 @@ export const productListcontainerjson={
                       "id": "750643",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Idli.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80440?collection_id=80440&tags=layout_CCS_Idli&type=rcv2",
                         "text": "Idli",
                         "type": "WEBLINK"
                       },
@@ -566,7 +566,7 @@ export const productListcontainerjson={
                       "id": "750131",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Dosa.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80424?collection_id=80424&tags=layout_CCS_Dosa&type=rcv2",
                         "text": "Dosa",
                         "type": "WEBLINK"
                       },
@@ -588,7 +588,7 @@ export const productListcontainerjson={
                       "id": "750242",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Puttu.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80384?collection_id=80384&tags=layout_BAU_Contextual%2Cputtu&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80384?collection_id=80384&tags=layout_BAU_Contextual%2Cputtu&type=rcv2",
                         "text": "Puttu",
                         "type": "WEBLINK"
                       },
@@ -610,7 +610,7 @@ export const productListcontainerjson={
                       "id": "749868",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/83655?collection_id=83655&tags=layout_CCS_Cake&type=rcv2",
                         "text": "Cakes",
                         "type": "WEBLINK"
                       },
@@ -632,7 +632,7 @@ export const productListcontainerjson={
                       "id": "750204",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Parotta.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80477?collection_id=80477&tags=layout_BAU_Contextual%2Cparotta&type=rcv2",
                         "text": "Parotta",
                         "type": "WEBLINK"
                       },
@@ -654,7 +654,7 @@ export const productListcontainerjson={
                       "id": "750561",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Vada.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80425?collection_id=80425&tags=layout_BAU_Contextual%2Cvada&type=rcv2",
                         "text": "Vada",
                         "type": "WEBLINK"
                       },
@@ -676,7 +676,7 @@ export const productListcontainerjson={
                       "id": "750225",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Salad.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80394?collection_id=80394&tags=layout_CCS_Salad&type=rcv2",
                         "text": "Salad",
                         "type": "WEBLINK"
                       },
@@ -698,7 +698,7 @@ export const productListcontainerjson={
                       "id": "750234",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Poori.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80377?collection_id=80377&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80377?collection_id=80377&tags=layout_BAU_Contextual%2Cpoori&type=rcv2",
                         "text": "Poori",
                         "type": "WEBLINK"
                       },
@@ -720,7 +720,7 @@ export const productListcontainerjson={
                       "id": "745861",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Shake.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/83673?collection_id=83673&tags=layout_CCS_Shakes&type=rcv2",
                         "text": "Shake",
                         "type": "WEBLINK"
                       },
@@ -742,7 +742,7 @@ export const productListcontainerjson={
                       "id": "750637",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Orange juice.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80445?collection_id=80445&tags=layout_Juices_Contextual&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80445?collection_id=80445&tags=layout_Juices_Contextual&type=rcv2",
                         "text": "Juice",
                         "type": "WEBLINK"
                       },
@@ -764,7 +764,7 @@ export const productListcontainerjson={
                       "id": "750232",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Pongal.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80375?collection_id=80375&tags=layout_BAU_Contextual%2Cpongal&type=rcv2",
                         "text": "Pongal",
                         "type": "WEBLINK"
                       },
@@ -786,7 +786,7 @@ export const productListcontainerjson={
                       "id": "749786",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Omelette.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80467?collection_id=80467&tags=layout_BAU_Contextual%2Comelette&type=rcv2",
                         "text": "Omelette",
                         "type": "WEBLINK"
                       },
@@ -808,7 +808,7 @@ export const productListcontainerjson={
                       "id": "750199",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paniyaram.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80473?collection_id=80473&tags=layout_ux4&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80473?collection_id=80473&tags=layout_ux4&type=rcv2",
                         "text": "Paniyaram",
                         "type": "WEBLINK"
                       },
@@ -830,7 +830,7 @@ export const productListcontainerjson={
                       "id": "749805",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Appam.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80352?collection_id=80352&tags=layout_BAU_Contextual%2Cappam%2Clayout_ux4&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80352?collection_id=80352&tags=layout_BAU_Contextual%2Cappam%2Clayout_ux4&type=rcv2",
                         "text": "Appam",
                         "type": "WEBLINK"
                       },
@@ -852,7 +852,7 @@ export const productListcontainerjson={
                       "id": "750228",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_samosa.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80396?collection_id=80396&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
                         "text": "Samosa",
                         "type": "WEBLINK"
                       },
@@ -874,7 +874,7 @@ export const productListcontainerjson={
                       "id": "749862",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_bonda.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80363?collection_id=80363&tags=layout_BAU_Contextual%2Cbonda%2Clayout_ux4&type=rcv2",
                         "text": "Bonda",
                         "type": "WEBLINK"
                       },
@@ -896,7 +896,7 @@ export const productListcontainerjson={
                       "id": "750201",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_BAU_Contextual%2Cparatha%2Cads_pc_paratha&type=rcv2",
                         "text": "Paratha",
                         "type": "WEBLINK"
                       },
@@ -918,7 +918,7 @@ export const productListcontainerjson={
                       "id": "750554",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Uttapam.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80415?collection_id=80415&tags=layout_CCS_Uthappam&type=rcv2",
                         "text": "Uthappam",
                         "type": "WEBLINK"
                       },
@@ -940,7 +940,7 @@ export const productListcontainerjson={
                       "id": "749760",
                       "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Khichdi.png",
                       "action": {
-                        "link": "https://www.swiggy.com/collections/80455?collection_id=80455&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
+                        // "link": "https://www.swiggy.com/collections/80455?collection_id=80455&tags=layout_BAU_Contextual%2Ckhichdi&type=rcv2",
                         "text": "Khichdi",
                         "type": "WEBLINK"
                       },
@@ -1133,7 +1133,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/nagerkovil-arya-bhavan-peelamedu-coimbatore-575570",
+                        // "link": "https://www.swiggy.com/restaurants/nagerkovil-arya-bhavan-peelamedu-coimbatore-575570",
                         "type": "WEBLINK"
                       }
                     },
@@ -1220,7 +1220,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/thirupathi-mess-ramanathapuram-coimbatore-60005",
+                        // "link": "https://www.swiggy.com/restaurants/thirupathi-mess-ramanathapuram-coimbatore-60005",
                         "type": "WEBLINK"
                       }
                     },
@@ -1329,7 +1329,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/geetha-canteen-gandhipuram-coimbatore-61498",
+                        // "link": "https://www.swiggy.com/restaurants/geetha-canteen-gandhipuram-coimbatore-61498",
                         "type": "WEBLINK"
                       }
                     },
@@ -1416,7 +1416,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/rhr-hotels-peelamedu-coimbatore-58704",
+                        // "link": "https://www.swiggy.com/restaurants/rhr-hotels-peelamedu-coimbatore-58704",
                         "type": "WEBLINK"
                       }
                     },
@@ -1514,7 +1514,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/shree-aksshayam-peelamedu-coimbatore-53332",
+                        // "link": "https://www.swiggy.com/restaurants/shree-aksshayam-peelamedu-coimbatore-53332",
                         "type": "WEBLINK"
                       }
                     },
@@ -1632,7 +1632,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/a2b-adyar-ananda-bhavan-gandhipuram-coimbatore-51014",
+                        // "link": "https://www.swiggy.com/restaurants/a2b-adyar-ananda-bhavan-gandhipuram-coimbatore-51014",
                         "type": "WEBLINK"
                       }
                     },
@@ -1730,7 +1730,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/cheesecakes-by-cakezone-kamarajar-road-kamarajar-road-singanallur-coimbatore-582271",
+                        // "link": "https://www.swiggy.com/restaurants/cheesecakes-by-cakezone-kamarajar-road-kamarajar-road-singanallur-coimbatore-582271",
                         "type": "WEBLINK"
                       }
                     },
@@ -1815,7 +1815,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/momo-zone-the-momo-company-thaneerpandhal-road-peelamedu-coimbatore-527155",
+                        // "link": "https://www.swiggy.com/restaurants/momo-zone-the-momo-company-thaneerpandhal-road-peelamedu-coimbatore-527155",
                         "type": "WEBLINK"
                       }
                     },
@@ -1905,7 +1905,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/ovenfresh-cakes-and-desserts-kamarajar-road-hopes-coimbatore-696120",
+                        // "link": "https://www.swiggy.com/restaurants/ovenfresh-cakes-and-desserts-kamarajar-road-hopes-coimbatore-696120",
                         "type": "WEBLINK"
                       }
                     },
@@ -2004,7 +2004,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/the-dessert-heaven-pastry-brownie-and-cakes-kamarajar-road-kamarajar-road-singanallur-coimbatore-442295",
+                        // "link": "https://www.swiggy.com/restaurants/the-dessert-heaven-pastry-brownie-and-cakes-kamarajar-road-kamarajar-road-singanallur-coimbatore-442295",
                         "type": "WEBLINK"
                       }
                     },
@@ -2105,7 +2105,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/subway-peelamedu-coimbatore-587663",
+                        // "link": "https://www.swiggy.com/restaurants/subway-peelamedu-coimbatore-587663",
                         "type": "WEBLINK"
                       }
                     },
@@ -2191,7 +2191,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/kaati-zone-rolls-and-wraps-thaneerpandhal-road-peelamedu-coimbatore-530139",
+                        // "link": "https://www.swiggy.com/restaurants/kaati-zone-rolls-and-wraps-thaneerpandhal-road-peelamedu-coimbatore-530139",
                         "type": "WEBLINK"
                       }
                     },
@@ -2295,7 +2295,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-thanneerpandal-main-road-peelamedu-coimbatore-440139",
+                        // "link": "https://www.swiggy.com/restaurants/great-indian-khichdi-by-eatfit-thanneerpandal-main-road-peelamedu-coimbatore-440139",
                         "type": "WEBLINK"
                       }
                     },
@@ -2403,7 +2403,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/home-plate-by-eatfit-thanneerpandal-main-road-peelamedu-coimbatore-440162",
+                        // "link": "https://www.swiggy.com/restaurants/home-plate-by-eatfit-thanneerpandal-main-road-peelamedu-coimbatore-440162",
                         "type": "WEBLINK"
                       }
                     },
@@ -2501,7 +2501,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/shravan-specials-by-lunchbox-vilankurchi-village-thanner-pandal-rd-coimbatore-487143",
+                        // "link": "https://www.swiggy.com/restaurants/shravan-specials-by-lunchbox-vilankurchi-village-thanner-pandal-rd-coimbatore-487143",
                         "type": "WEBLINK"
                       }
                     },
@@ -2589,7 +2589,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/hrx-by-eatfit-thaneerpandal-main-road-peelamedu-coimbatore-736170",
+                        // "link": "https://www.swiggy.com/restaurants/hrx-by-eatfit-thaneerpandal-main-road-peelamedu-coimbatore-736170",
                         "type": "WEBLINK"
                       }
                     },
@@ -2678,7 +2678,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/starbucks-coffee-anupperpalayam-avinashi-road-coimbatore-844594",
+                        // "link": "https://www.swiggy.com/restaurants/starbucks-coffee-anupperpalayam-avinashi-road-coimbatore-844594",
                         "type": "WEBLINK"
                       }
                     },
@@ -2764,7 +2764,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/cakezone-patisserie-opp-n-g-r-school-kamarajar-road-singanallur-coimbatore-425423",
+                        // "link": "https://www.swiggy.com/restaurants/cakezone-patisserie-opp-n-g-r-school-kamarajar-road-singanallur-coimbatore-425423",
                         "type": "WEBLINK"
                       }
                     },
@@ -2862,7 +2862,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/bakingo-srinagar-road-peelamedu-coimbatore-333124",
+                        // "link": "https://www.swiggy.com/restaurants/bakingo-srinagar-road-peelamedu-coimbatore-333124",
                         "type": "WEBLINK"
                       }
                     },
@@ -2967,7 +2967,7 @@ export const productListcontainerjson={
                         
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/eatfit-all-things-healthy-thanneerpandal-main-road-peelamedu-coimbatore-413573",
+                        // "link": "https://www.swiggy.com/restaurants/eatfit-all-things-healthy-thanneerpandal-main-road-peelamedu-coimbatore-413573",
                         "type": "WEBLINK"
                       }
                     }
@@ -3982,7 +3982,7 @@ export const productListcontainerjson={
                           "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                         },
                         "cta": {
-                          "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
+                          // "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
                           "text": "RESTAURANT_MENU",
                           "type": "WEBLINK"
                         },
@@ -4086,7 +4086,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/hotel-maa-race-course-coimbatore-93262",
+                        // "link": "https://www.swiggy.com/restaurants/hotel-maa-race-course-coimbatore-93262",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4186,7 +4186,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/veetu-saapadu-by-madhampatty-pakashala-industrial-estate-coi-ganapathy-coimbatore-744740",
+                        // "link": "https://www.swiggy.com/restaurants/veetu-saapadu-by-madhampatty-pakashala-industrial-estate-coi-ganapathy-coimbatore-744740",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4298,7 +4298,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/-sai-brindhavan-thiruvalluvar-nagar-ramanathapuram-coimbatore-296939",
+                        // "link": "https://www.swiggy.com/restaurants/-sai-brindhavan-thiruvalluvar-nagar-ramanathapuram-coimbatore-296939",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4399,7 +4399,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/shree-sai-virundhu-tata-bad-gandhipuram-coimbatore-140296",
+                        // "link": "https://www.swiggy.com/restaurants/shree-sai-virundhu-tata-bad-gandhipuram-coimbatore-140296",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4501,7 +4501,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/sri-krishna-tiffin-room-siddhapudur-coimbatore-56378",
+                        // "link": "https://www.swiggy.com/restaurants/sri-krishna-tiffin-room-siddhapudur-coimbatore-56378",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4604,7 +4604,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/the-fruit-bowl-co-trichy-road-ramanathapuram-coimbatore-655358",
+                        // "link": "https://www.swiggy.com/restaurants/the-fruit-bowl-co-trichy-road-ramanathapuram-coimbatore-655358",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4716,7 +4716,7 @@ export const productListcontainerjson={
                         "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
                       },
                       "cta": {
-                        "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
+                        // "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
                         "text": "RESTAURANT_MENU",
                         "type": "WEBLINK"
                       },
@@ -4746,131 +4746,131 @@ export const productListcontainerjson={
               "brands": [
                 {
                   "text": "Best Restaurants in Bangalore",
-                  "link": "https://www.swiggy.com/city/bangalore/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/bangalore/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Pune",
-                  "link": "https://www.swiggy.com/city/pune/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/pune/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Mumbai",
-                  "link": "https://www.swiggy.com/city/mumbai/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/mumbai/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Delhi",
-                  "link": "https://www.swiggy.com/city/delhi/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/delhi/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Hyderabad",
-                  "link": "https://www.swiggy.com/city/hyderabad/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/hyderabad/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Kolkata",
-                  "link": "https://www.swiggy.com/city/kolkata/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/kolkata/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Chennai",
-                  "link": "https://www.swiggy.com/city/chennai/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/chennai/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Chandigarh",
-                  "link": "https://www.swiggy.com/city/chandigarh/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/chandigarh/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Ahmedabad",
-                  "link": "https://www.swiggy.com/city/ahmedabad/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/ahmedabad/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Jaipur",
-                  "link": "https://www.swiggy.com/city/jaipur/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/jaipur/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Nagpur",
-                  "link": "https://www.swiggy.com/city/nagpur/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/nagpur/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Bhubaneswar",
-                  "link": "https://www.swiggy.com/city/bhubaneswar/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/bhubaneswar/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Kochi",
-                  "link": "https://www.swiggy.com/city/kochi/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/kochi/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Surat",
-                  "link": "https://www.swiggy.com/city/surat/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/surat/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Dehradun",
-                  "link": "https://www.swiggy.com/city/dehradun/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/dehradun/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Ludhiana",
-                  "link": "https://www.swiggy.com/city/ludhiana/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/ludhiana/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Patna",
-                  "link": "https://www.swiggy.com/city/patna/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/patna/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Mangaluru",
-                  "link": "https://www.swiggy.com/city/mangaluru/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/mangaluru/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Bhopal",
-                  "link": "https://www.swiggy.com/city/bhopal/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/bhopal/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Gurgaon",
-                  "link": "https://www.swiggy.com/city/gurgaon/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/gurgaon/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Coimbatore",
-                  "link": "https://www.swiggy.com/city/coimbatore/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/coimbatore/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Agra",
-                  "link": "https://www.swiggy.com/city/agra/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/agra/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Noida",
-                  "link": "https://www.swiggy.com/city/noida/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/noida/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Vijayawada",
-                  "link": "https://www.swiggy.com/city/vijayawada/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/vijayawada/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Guwahati",
-                  "link": "https://www.swiggy.com/city/guwahati/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/guwahati/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Mysore",
-                  "link": "https://www.swiggy.com/city/mysore/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/mysore/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Pondicherry",
-                  "link": "https://www.swiggy.com/city/pondicherry/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/pondicherry/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Thiruvananthapuram",
-                  "link": "https://www.swiggy.com/city/thiruvananthapuram/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/thiruvananthapuram/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Ranchi",
-                  "link": "https://www.swiggy.com/city/ranchi/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/ranchi/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Vizag",
-                  "link": "https://www.swiggy.com/city/vizag/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/vizag/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Udaipur",
-                  "link": "https://www.swiggy.com/city/udaipur/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/udaipur/best-restaurants"
                 },
                 {
                   "text": "Best Restaurants in Vadodara",
-                  "link": "https://www.swiggy.com/city/vadodara/best-restaurants"
+                  // "link": "https://www.swiggy.com/city/vadodara/best-restaurants"
                 }
               ],
               "id": "restaurant_near_me_links"
@@ -4885,131 +4885,131 @@ export const productListcontainerjson={
               "brands": [
                 {
                   "text": "Chinese Restaurant Near Me",
-                  "link": "https://www.swiggy.com/chinese-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/chinese-restaurants-near-me"
                 },
                 {
                   "text": "South Indian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/south-indian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/south-indian-restaurants-near-me"
                 },
                 {
                   "text": "Indian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/indian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/indian-restaurants-near-me"
                 },
                 {
                   "text": "Kerala Restaurant Near Me",
-                  "link": "https://www.swiggy.com/kerala-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/kerala-restaurants-near-me"
                 },
                 {
                   "text": "Korean Restaurant Near Me",
-                  "link": "https://www.swiggy.com/korean-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/korean-restaurants-near-me"
                 },
                 {
                   "text": "North Indian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/north-indian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/north-indian-restaurants-near-me"
                 },
                 {
                   "text": "Seafood Restaurant Near Me",
-                  "link": "https://www.swiggy.com/seafood-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/seafood-restaurants-near-me"
                 },
                 {
                   "text": "Bengali Restaurant Near Me",
-                  "link": "https://www.swiggy.com/bengali-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/bengali-restaurants-near-me"
                 },
                 {
                   "text": "Punjabi Restaurant Near Me",
-                  "link": "https://www.swiggy.com/punjabi-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/punjabi-restaurants-near-me"
                 },
                 {
                   "text": "Italian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/italian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/italian-restaurants-near-me"
                 },
                 {
                   "text": "Andhra Restaurant Near Me",
-                  "link": "https://www.swiggy.com/andhra-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/andhra-restaurants-near-me"
                 },
                 {
                   "text": "Biryani Restaurant Near Me",
-                  "link": "https://www.swiggy.com/biryani-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/biryani-restaurants-near-me"
                 },
                 {
                   "text": "Japanese Restaurant Near Me",
-                  "link": "https://www.swiggy.com/japanese-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/japanese-restaurants-near-me"
                 },
                 {
                   "text": "Arabian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/arabian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/arabian-restaurants-near-me"
                 },
                 {
                   "text": "Fast Food Restaurant Near Me",
-                  "link": "https://www.swiggy.com/fast-food-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/fast-food-restaurants-near-me"
                 },
                 {
                   "text": "Jain Restaurant Near Me",
-                  "link": "https://www.swiggy.com/jain-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/jain-restaurants-near-me"
                 },
                 {
                   "text": "Gujarati Restaurant Near Me",
-                  "link": "https://www.swiggy.com/gujarati-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/gujarati-restaurants-near-me"
                 },
                 {
                   "text": "Thai Restaurant Near Me",
-                  "link": "https://www.swiggy.com/thai-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/thai-restaurants-near-me"
                 },
                 {
                   "text": "Pizzas Restaurant Near Me",
-                  "link": "https://www.swiggy.com/pizzas-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/pizzas-restaurants-near-me"
                 },
                 {
                   "text": "Asian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/asian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/asian-restaurants-near-me"
                 },
                 {
                   "text": "Cafe Restaurant Near Me",
-                  "link": "https://www.swiggy.com/cafe-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/cafe-restaurants-near-me"
                 },
                 {
                   "text": "Continental Restaurant Near Me",
-                  "link": "https://www.swiggy.com/continental-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/continental-restaurants-near-me"
                 },
                 {
                   "text": "Mexican Restaurant Near Me",
-                  "link": "https://www.swiggy.com/mexican-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/mexican-restaurants-near-me"
                 },
                 {
                   "text": "Mughlai Restaurant Near Me",
-                  "link": "https://www.swiggy.com/mughlai-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/mughlai-restaurants-near-me"
                 },
                 {
                   "text": "Sushi Restaurant Near Me",
-                  "link": "https://www.swiggy.com/sushi-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/sushi-restaurants-near-me"
                 },
                 {
                   "text": "Mangalorean Restaurant Near Me",
-                  "link": "https://www.swiggy.com/mangalorean-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/mangalorean-restaurants-near-me"
                 },
                 {
                   "text": "Tibetan Restaurant Near Me",
-                  "link": "https://www.swiggy.com/tibetan-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/tibetan-restaurants-near-me"
                 },
                 {
                   "text": "Barbecue Restaurant Near Me",
-                  "link": "https://www.swiggy.com/barbecue-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/barbecue-restaurants-near-me"
                 },
                 {
                   "text": "Maharashtrian Restaurant Near Me",
-                  "link": "https://www.swiggy.com/maharashtrian-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/maharashtrian-restaurants-near-me"
                 },
                 {
                   "text": "Nepalese Restaurant Near Me",
-                  "link": "https://www.swiggy.com/nepalese-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/nepalese-restaurants-near-me"
                 },
                 {
                   "text": "Rajasthani Restaurant Near Me",
-                  "link": "https://www.swiggy.com/rajasthani-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/rajasthani-restaurants-near-me"
                 },
                 {
                   "text": "Turkish Restaurant Near Me",
-                  "link": "https://www.swiggy.com/turkish-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/turkish-restaurants-near-me"
                 }
               ],
               "id": "restaurant_near_me_links"
@@ -5024,11 +5024,11 @@ export const productListcontainerjson={
               "brands": [
                 {
                   "text": "Explore Restaurants Near Me",
-                  "link": "https://www.swiggy.com/restaurants-near-me"
+                  // "link": "https://www.swiggy.com/restaurants-near-me"
                 },
                 {
                   "text": "Explore Top Rated Restaurants Near Me",
-                  "link": "https://www.swiggy.com/best-restaurants-near-me"
+                  // "link": "https://www.swiggy.com/best-restaurants-near-me"
                 }
               ],
               "id": "restaurant_near_me_links"
@@ -5055,1715 +5055,1715 @@ export const productListcontainerjson={
               "cities": [
                 {
                   "text": "Bangalore",
-                  "link": "https://www.swiggy.com/city/bangalore"
+                  // "link": "https://www.swiggy.com/city/bangalore"
                 },
                 {
                   "text": "Gurgaon",
-                  "link": "https://www.swiggy.com/city/gurgaon"
+                  // "link": "https://www.swiggy.com/city/gurgaon"
                 },
                 {
                   "text": "Hyderabad",
-                  "link": "https://www.swiggy.com/city/hyderabad"
+                  // "link": "https://www.swiggy.com/city/hyderabad"
                 },
                 {
                   "text": "Delhi",
-                  "link": "https://www.swiggy.com/city/delhi"
+                  // "link": "https://www.swiggy.com/city/delhi"
                 },
                 {
                   "text": "Mumbai",
-                  "link": "https://www.swiggy.com/city/mumbai"
+                  // "link": "https://www.swiggy.com/city/mumbai"
                 },
                 {
                   "text": "Pune",
-                  "link": "https://www.swiggy.com/city/pune"
+                  // "link": "https://www.swiggy.com/city/pune"
                 },
                 {
                   "text": "Kolkata",
-                  "link": "https://www.swiggy.com/city/kolkata"
+                  // "link": "https://www.swiggy.com/city/kolkata"
                 },
                 {
                   "text": "Chennai",
-                  "link": "https://www.swiggy.com/city/chennai"
+                  // "link": "https://www.swiggy.com/city/chennai"
                 },
                 {
                   "text": "Ahmedabad",
-                  "link": "https://www.swiggy.com/city/ahmedabad"
+                  // "link": "https://www.swiggy.com/city/ahmedabad"
                 },
                 {
                   "text": "Chandigarh",
-                  "link": "https://www.swiggy.com/city/chandigarh"
+                  // "link": "https://www.swiggy.com/city/chandigarh"
                 },
                 {
                   "text": "Jaipur",
-                  "link": "https://www.swiggy.com/city/jaipur"
+                  // "link": "https://www.swiggy.com/city/jaipur"
                 },
                 {
                   "text": "Kochi",
-                  "link": "https://www.swiggy.com/city/kochi"
+                  // "link": "https://www.swiggy.com/city/kochi"
                 },
                 {
                   "text": "Coimbatore",
-                  "link": "https://www.swiggy.com/city/coimbatore"
+                  // "link": "https://www.swiggy.com/city/coimbatore"
                 },
                 {
                   "text": "Lucknow",
-                  "link": "https://www.swiggy.com/city/lucknow"
+                  // "link": "https://www.swiggy.com/city/lucknow"
                 },
                 {
                   "text": "Nagpur",
-                  "link": "https://www.swiggy.com/city/nagpur"
+                  // "link": "https://www.swiggy.com/city/nagpur"
                 },
                 {
                   "text": "Vadodara",
-                  "link": "https://www.swiggy.com/city/vadodara"
+                  // "link": "https://www.swiggy.com/city/vadodara"
                 },
                 {
                   "text": "Indore",
-                  "link": "https://www.swiggy.com/city/indore"
+                  // "link": "https://www.swiggy.com/city/indore"
                 },
                 {
                   "text": "Guwahati",
-                  "link": "https://www.swiggy.com/city/guwahati"
+                  // "link": "https://www.swiggy.com/city/guwahati"
                 },
                 {
                   "text": "Vizag",
-                  "link": "https://www.swiggy.com/city/vizag"
+                  // "link": "https://www.swiggy.com/city/vizag"
                 },
                 {
                   "text": "Surat",
-                  "link": "https://www.swiggy.com/city/surat"
+                  // "link": "https://www.swiggy.com/city/surat"
                 },
                 {
                   "text": "Dehradun",
-                  "link": "https://www.swiggy.com/city/dehradun"
+                  // "link": "https://www.swiggy.com/city/dehradun"
                 },
                 {
                   "text": "Noida",
-                  "link": "https://www.swiggy.com/city/noida"
+                  // "link": "https://www.swiggy.com/city/noida"
                 },
                 {
                   "text": "Ludhiana",
-                  "link": "https://www.swiggy.com/city/ludhiana"
+                  // "link": "https://www.swiggy.com/city/ludhiana"
                 },
                 {
                   "text": "Trichy",
-                  "link": "https://www.swiggy.com/city/trichy"
+                  // "link": "https://www.swiggy.com/city/trichy"
                 },
                 {
                   "text": "Vijayawada",
-                  "link": "https://www.swiggy.com/city/vijayawada"
+                  // "link": "https://www.swiggy.com/city/vijayawada"
                 },
                 {
                   "text": "Kanpur",
-                  "link": "https://www.swiggy.com/city/kanpur"
+                  // "link": "https://www.swiggy.com/city/kanpur"
                 },
                 {
                   "text": "Mysore",
-                  "link": "https://www.swiggy.com/city/mysore"
+                  // "link": "https://www.swiggy.com/city/mysore"
                 },
                 {
                   "text": "Nashik",
-                  "link": "https://www.swiggy.com/city/nashik"
+                  // "link": "https://www.swiggy.com/city/nashik"
                 },
                 {
                   "text": "Udaipur",
-                  "link": "https://www.swiggy.com/city/udaipur"
+                  // "link": "https://www.swiggy.com/city/udaipur"
                 },
                 {
                   "text": "Pondicherry",
-                  "link": "https://www.swiggy.com/city/pondicherry"
+                  // "link": "https://www.swiggy.com/city/pondicherry"
                 },
                 {
                   "text": "Agra",
-                  "link": "https://www.swiggy.com/city/agra"
+                  // "link": "https://www.swiggy.com/city/agra"
                 },
                 {
                   "text": "Aurangabad",
-                  "link": "https://www.swiggy.com/city/aurangabad"
+                  // "link": "https://www.swiggy.com/city/aurangabad"
                 },
                 {
                   "text": "Jalandhar",
-                  "link": "https://www.swiggy.com/city/jalandhar"
+                  // "link": "https://www.swiggy.com/city/jalandhar"
                 },
                 {
                   "text": "Kota",
-                  "link": "https://www.swiggy.com/city/kota"
+                  // "link": "https://www.swiggy.com/city/kota"
                 },
                 {
                   "text": "Madurai",
-                  "link": "https://www.swiggy.com/city/madurai"
+                  // "link": "https://www.swiggy.com/city/madurai"
                 },
                 {
                   "text": "Allahabad",
-                  "link": "https://www.swiggy.com/city/allahabad"
+                  // "link": "https://www.swiggy.com/city/allahabad"
                 },
                 {
                   "text": "Manipal",
-                  "link": "https://www.swiggy.com/city/manipal"
+                  // "link": "https://www.swiggy.com/city/manipal"
                 },
                 {
                   "text": "Amritsar",
-                  "link": "https://www.swiggy.com/city/amritsar"
+                  // "link": "https://www.swiggy.com/city/amritsar"
                 },
                 {
                   "text": "Bareilly",
-                  "link": "https://www.swiggy.com/city/bareilly"
+                  // "link": "https://www.swiggy.com/city/bareilly"
                 },
                 {
                   "text": "Meerut",
-                  "link": "https://www.swiggy.com/city/meerut"
+                  // "link": "https://www.swiggy.com/city/meerut"
                 },
                 {
                   "text": "Bhopal",
-                  "link": "https://www.swiggy.com/city/bhopal"
+                  // "link": "https://www.swiggy.com/city/bhopal"
                 },
                 {
                   "text": "Ooty",
-                  "link": "https://www.swiggy.com/city/ooty"
+                  // "link": "https://www.swiggy.com/city/ooty"
                 },
                 {
                   "text": "Bhubaneswar",
-                  "link": "https://www.swiggy.com/city/bhubaneswar"
+                  // "link": "https://www.swiggy.com/city/bhubaneswar"
                 },
                 {
                   "text": "Raipur",
-                  "link": "https://www.swiggy.com/city/raipur"
+                  // "link": "https://www.swiggy.com/city/raipur"
                 },
                 {
                   "text": "Bikaner",
-                  "link": "https://www.swiggy.com/city/bikaner"
+                  // "link": "https://www.swiggy.com/city/bikaner"
                 },
                 {
                   "text": "Rajkot",
-                  "link": "https://www.swiggy.com/city/rajkot"
+                  // "link": "https://www.swiggy.com/city/rajkot"
                 },
                 {
                   "text": "Kozhikode",
-                  "link": "https://www.swiggy.com/city/kozhikode"
+                  // "link": "https://www.swiggy.com/city/kozhikode"
                 },
                 {
                   "text": "Central Goa",
-                  "link": "https://www.swiggy.com/city/central-goa"
+                  // "link": "https://www.swiggy.com/city/central-goa"
                 },
                 {
                   "text": "Sirsa",
-                  "link": "https://www.swiggy.com/city/sirsa"
+                  // "link": "https://www.swiggy.com/city/sirsa"
                 },
                 {
                   "text": "Gwalior",
-                  "link": "https://www.swiggy.com/city/gwalior"
+                  // "link": "https://www.swiggy.com/city/gwalior"
                 },
                 {
                   "text": "Thrissur",
-                  "link": "https://www.swiggy.com/city/thrissur"
+                  // "link": "https://www.swiggy.com/city/thrissur"
                 },
                 {
                   "text": "Kharagpur",
-                  "link": "https://www.swiggy.com/city/kharagpur"
+                  // "link": "https://www.swiggy.com/city/kharagpur"
                 },
                 {
                   "text": "Tirupati",
-                  "link": "https://www.swiggy.com/city/tirupati"
+                  // "link": "https://www.swiggy.com/city/tirupati"
                 },
                 {
                   "text": "Tirupur",
-                  "link": "https://www.swiggy.com/city/tirupur"
+                  // "link": "https://www.swiggy.com/city/tirupur"
                 },
                 {
                   "text": "Vellore",
-                  "link": "https://www.swiggy.com/city/vellore"
+                  // "link": "https://www.swiggy.com/city/vellore"
                 },
                 {
                   "text": "Thiruvananthapuram",
-                  "link": "https://www.swiggy.com/city/thiruvananthapuram"
+                  // "link": "https://www.swiggy.com/city/thiruvananthapuram"
                 },
                 {
                   "text": "Warangal",
-                  "link": "https://www.swiggy.com/city/warangal"
+                  // "link": "https://www.swiggy.com/city/warangal"
                 },
                 {
                   "text": "Varanasi",
-                  "link": "https://www.swiggy.com/city/varanasi"
+                  // "link": "https://www.swiggy.com/city/varanasi"
                 },
                 {
                   "text": "Mangaluru",
-                  "link": "https://www.swiggy.com/city/mangaluru"
+                  // "link": "https://www.swiggy.com/city/mangaluru"
                 },
                 {
                   "text": "Patna",
-                  "link": "https://www.swiggy.com/city/patna"
+                  // "link": "https://www.swiggy.com/city/patna"
                 },
                 {
                   "text": "Ranchi",
-                  "link": "https://www.swiggy.com/city/ranchi"
+                  // "link": "https://www.swiggy.com/city/ranchi"
                 },
                 {
                   "text": "Faridabad",
-                  "link": "https://www.swiggy.com/city/faridabad"
+                  // "link": "https://www.swiggy.com/city/faridabad"
                 },
                 {
                   "text": "Guntur",
-                  "link": "https://www.swiggy.com/city/guntur"
+                  // "link": "https://www.swiggy.com/city/guntur"
                 },
                 {
                   "text": "Ujjain",
-                  "link": "https://www.swiggy.com/city/ujjain"
+                  // "link": "https://www.swiggy.com/city/ujjain"
                 },
                 {
                   "text": "Patiala",
-                  "link": "https://www.swiggy.com/city/patiala"
+                  // "link": "https://www.swiggy.com/city/patiala"
                 },
                 {
                   "text": "Karnal",
-                  "link": "https://www.swiggy.com/city/karnal"
+                  // "link": "https://www.swiggy.com/city/karnal"
                 },
                 {
                   "text": "Kakinada",
-                  "link": "https://www.swiggy.com/city/kakinada"
+                  // "link": "https://www.swiggy.com/city/kakinada"
                 },
                 {
                   "text": "Rajahmundry",
-                  "link": "https://www.swiggy.com/city/rajahmundry"
+                  // "link": "https://www.swiggy.com/city/rajahmundry"
                 },
                 {
                   "text": "Bilaspur",
-                  "link": "https://www.swiggy.com/city/bilaspur"
+                  // "link": "https://www.swiggy.com/city/bilaspur"
                 },
                 {
                   "text": "Bhilai",
-                  "link": "https://www.swiggy.com/city/bhilai"
+                  // "link": "https://www.swiggy.com/city/bhilai"
                 },
                 {
                   "text": "Anand",
-                  "link": "https://www.swiggy.com/city/anand"
+                  // "link": "https://www.swiggy.com/city/anand"
                 },
                 {
                   "text": "Bhavnagar",
-                  "link": "https://www.swiggy.com/city/bhavnagar"
+                  // "link": "https://www.swiggy.com/city/bhavnagar"
                 },
                 {
                   "text": "Jammu",
-                  "link": "https://www.swiggy.com/city/jammu"
+                  // "link": "https://www.swiggy.com/city/jammu"
                 },
                 {
                   "text": "Muktsar",
-                  "link": "https://www.swiggy.com/city/muktsar"
+                  // "link": "https://www.swiggy.com/city/muktsar"
                 },
                 {
                   "text": "Panipat",
-                  "link": "https://www.swiggy.com/city/panipat"
+                  // "link": "https://www.swiggy.com/city/panipat"
                 },
                 {
                   "text": "Dhanbad",
-                  "link": "https://www.swiggy.com/city/dhanbad"
+                  // "link": "https://www.swiggy.com/city/dhanbad"
                 },
                 {
                   "text": "Hubli",
-                  "link": "https://www.swiggy.com/city/hubli"
+                  // "link": "https://www.swiggy.com/city/hubli"
                 },
                 {
                   "text": "Belgaum",
-                  "link": "https://www.swiggy.com/city/belgaum"
+                  // "link": "https://www.swiggy.com/city/belgaum"
                 },
                 {
                   "text": "Jabalpur",
-                  "link": "https://www.swiggy.com/city/jabalpur"
+                  // "link": "https://www.swiggy.com/city/jabalpur"
                 },
                 {
                   "text": "Kolhapur",
-                  "link": "https://www.swiggy.com/city/kolhapur"
+                  // "link": "https://www.swiggy.com/city/kolhapur"
                 },
                 {
                   "text": "Solapur",
-                  "link": "https://www.swiggy.com/city/solapur"
+                  // "link": "https://www.swiggy.com/city/solapur"
                 },
                 {
                   "text": "Shillong",
-                  "link": "https://www.swiggy.com/city/shillong"
+                  // "link": "https://www.swiggy.com/city/shillong"
                 },
                 {
                   "text": "Cuttack",
-                  "link": "https://www.swiggy.com/city/cuttack"
+                  // "link": "https://www.swiggy.com/city/cuttack"
                 },
                 {
                   "text": "Aligarh",
-                  "link": "https://www.swiggy.com/city/aligarh"
+                  // "link": "https://www.swiggy.com/city/aligarh"
                 },
                 {
                   "text": "Salem",
-                  "link": "https://www.swiggy.com/city/salem"
+                  // "link": "https://www.swiggy.com/city/salem"
                 },
                 {
                   "text": "Jodhpur",
-                  "link": "https://www.swiggy.com/city/jodhpur"
+                  // "link": "https://www.swiggy.com/city/jodhpur"
                 },
                 {
                   "text": "Ajmer",
-                  "link": "https://www.swiggy.com/city/ajmer"
+                  // "link": "https://www.swiggy.com/city/ajmer"
                 },
                 {
                   "text": "Jhansi",
-                  "link": "https://www.swiggy.com/city/jhansi"
+                  // "link": "https://www.swiggy.com/city/jhansi"
                 },
                 {
                   "text": "Gorakhpur",
-                  "link": "https://www.swiggy.com/city/gorakhpur"
+                  // "link": "https://www.swiggy.com/city/gorakhpur"
                 },
                 {
                   "text": "Thanjavur",
-                  "link": "https://www.swiggy.com/city/thanjavur"
+                  // "link": "https://www.swiggy.com/city/thanjavur"
                 },
                 {
                   "text": "Erode",
-                  "link": "https://www.swiggy.com/city/erode"
+                  // "link": "https://www.swiggy.com/city/erode"
                 },
                 {
                   "text": "Nellore",
-                  "link": "https://www.swiggy.com/city/nellore"
+                  // "link": "https://www.swiggy.com/city/nellore"
                 },
                 {
                   "text": "Rourkela",
-                  "link": "https://www.swiggy.com/city/rourkela"
+                  // "link": "https://www.swiggy.com/city/rourkela"
                 },
                 {
                   "text": "Anantapur",
-                  "link": "https://www.swiggy.com/city/anantapur"
+                  // "link": "https://www.swiggy.com/city/anantapur"
                 },
                 {
                   "text": "Kurnool",
-                  "link": "https://www.swiggy.com/city/kurnool"
+                  // "link": "https://www.swiggy.com/city/kurnool"
                 },
                 {
                   "text": "Ahmednagar",
-                  "link": "https://www.swiggy.com/city/ahmednagar"
+                  // "link": "https://www.swiggy.com/city/ahmednagar"
                 },
                 {
                   "text": "Phagwara",
-                  "link": "https://www.swiggy.com/city/phagwara"
+                  // "link": "https://www.swiggy.com/city/phagwara"
                 },
                 {
                   "text": "Ambala",
-                  "link": "https://www.swiggy.com/city/ambala"
+                  // "link": "https://www.swiggy.com/city/ambala"
                 },
                 {
                   "text": "Ballari",
-                  "link": "https://www.swiggy.com/city/ballari"
+                  // "link": "https://www.swiggy.com/city/ballari"
                 },
                 {
                   "text": "Saharanpur",
-                  "link": "https://www.swiggy.com/city/saharanpur"
+                  // "link": "https://www.swiggy.com/city/saharanpur"
                 },
                 {
                   "text": "Tirunelveli",
-                  "link": "https://www.swiggy.com/city/tirunelveli"
+                  // "link": "https://www.swiggy.com/city/tirunelveli"
                 },
                 {
                   "text": "Bathinda",
-                  "link": "https://www.swiggy.com/city/bathinda"
+                  // "link": "https://www.swiggy.com/city/bathinda"
                 },
                 {
                   "text": "Mathura",
-                  "link": "https://www.swiggy.com/city/mathura"
+                  // "link": "https://www.swiggy.com/city/mathura"
                 },
                 {
                   "text": "Haridwar",
-                  "link": "https://www.swiggy.com/city/haridwar"
+                  // "link": "https://www.swiggy.com/city/haridwar"
                 },
                 {
                   "text": "Ratnagiri",
-                  "link": "https://www.swiggy.com/city/ratnagiri"
+                  // "link": "https://www.swiggy.com/city/ratnagiri"
                 },
                 {
                   "text": "Sangli",
-                  "link": "https://www.swiggy.com/city/sangli"
+                  // "link": "https://www.swiggy.com/city/sangli"
                 },
                 {
                   "text": "Amravati",
-                  "link": "https://www.swiggy.com/city/amravati"
+                  // "link": "https://www.swiggy.com/city/amravati"
                 },
                 {
                   "text": "Rishikesh",
-                  "link": "https://www.swiggy.com/city/rishikesh"
+                  // "link": "https://www.swiggy.com/city/rishikesh"
                 },
                 {
                   "text": "Nagercoil",
-                  "link": "https://www.swiggy.com/city/nagercoil"
+                  // "link": "https://www.swiggy.com/city/nagercoil"
                 },
                 {
                   "text": "KanyaKumari",
-                  "link": "https://www.swiggy.com/city/kanyakumari"
+                  // "link": "https://www.swiggy.com/city/kanyakumari"
                 },
                 {
                   "text": "Kadapa",
-                  "link": "https://www.swiggy.com/city/kadapa"
+                  // "link": "https://www.swiggy.com/city/kadapa"
                 },
                 {
                   "text": "Nizamabad",
-                  "link": "https://www.swiggy.com/city/nizamabad"
+                  // "link": "https://www.swiggy.com/city/nizamabad"
                 },
                 {
                   "text": "Shivamogga",
-                  "link": "https://www.swiggy.com/city/shivamogga"
+                  // "link": "https://www.swiggy.com/city/shivamogga"
                 },
                 {
                   "text": "Davanagere",
-                  "link": "https://www.swiggy.com/city/davanagere"
+                  // "link": "https://www.swiggy.com/city/davanagere"
                 },
                 {
                   "text": "Roorkee",
-                  "link": "https://www.swiggy.com/city/roorkee"
+                  // "link": "https://www.swiggy.com/city/roorkee"
                 },
                 {
                   "text": "Nanded",
-                  "link": "https://www.swiggy.com/city/nanded"
+                  // "link": "https://www.swiggy.com/city/nanded"
                 },
                 {
                   "text": "Rewa",
-                  "link": "https://www.swiggy.com/city/rewa"
+                  // "link": "https://www.swiggy.com/city/rewa"
                 },
                 {
                   "text": "Satna",
-                  "link": "https://www.swiggy.com/city/satna"
+                  // "link": "https://www.swiggy.com/city/satna"
                 },
                 {
                   "text": "Muzaffarpur",
-                  "link": "https://www.swiggy.com/city/muzaffarpur"
+                  // "link": "https://www.swiggy.com/city/muzaffarpur"
                 },
                 {
                   "text": "Valsad",
-                  "link": "https://www.swiggy.com/city/valsad"
+                  // "link": "https://www.swiggy.com/city/valsad"
                 },
                 {
                   "text": "Vapi",
-                  "link": "https://www.swiggy.com/city/vapi"
+                  // "link": "https://www.swiggy.com/city/vapi"
                 },
                 {
                   "text": "Chhapra",
-                  "link": "https://www.swiggy.com/city/chhapra"
+                  // "link": "https://www.swiggy.com/city/chhapra"
                 },
                 {
                   "text": "Dharamshala",
-                  "link": "https://www.swiggy.com/city/dharamshala"
+                  // "link": "https://www.swiggy.com/city/dharamshala"
                 },
                 {
                   "text": "Kollam",
-                  "link": "https://www.swiggy.com/city/kollam"
+                  // "link": "https://www.swiggy.com/city/kollam"
                 },
                 {
                   "text": "Silchar",
-                  "link": "https://www.swiggy.com/city/silchar"
+                  // "link": "https://www.swiggy.com/city/silchar"
                 },
                 {
                   "text": "Alappuzha",
-                  "link": "https://www.swiggy.com/city/alappuzha"
+                  // "link": "https://www.swiggy.com/city/alappuzha"
                 },
                 {
                   "text": "Sonipat",
-                  "link": "https://www.swiggy.com/city/sonipat"
+                  // "link": "https://www.swiggy.com/city/sonipat"
                 },
                 {
                   "text": "Rohtak",
-                  "link": "https://www.swiggy.com/city/rohtak"
+                  // "link": "https://www.swiggy.com/city/rohtak"
                 },
                 {
                   "text": "Mehsana",
-                  "link": "https://www.swiggy.com/city/mehsana"
+                  // "link": "https://www.swiggy.com/city/mehsana"
                 },
                 {
                   "text": "Kullu",
-                  "link": "https://www.swiggy.com/city/kullu"
+                  // "link": "https://www.swiggy.com/city/kullu"
                 },
                 {
                   "text": "Dhule",
-                  "link": "https://www.swiggy.com/city/dhule"
+                  // "link": "https://www.swiggy.com/city/dhule"
                 },
                 {
                   "text": "Dharwad",
-                  "link": "https://www.swiggy.com/city/dharwad"
+                  // "link": "https://www.swiggy.com/city/dharwad"
                 },
                 {
                   "text": "Latur",
-                  "link": "https://www.swiggy.com/city/latur"
+                  // "link": "https://www.swiggy.com/city/latur"
                 },
                 {
                   "text": "Vizianagaram",
-                  "link": "https://www.swiggy.com/city/vizianagaram"
+                  // "link": "https://www.swiggy.com/city/vizianagaram"
                 },
                 {
                   "text": "Khammam",
-                  "link": "https://www.swiggy.com/city/khammam"
+                  // "link": "https://www.swiggy.com/city/khammam"
                 },
                 {
                   "text": "Hampi",
-                  "link": "https://www.swiggy.com/city/hampi"
+                  // "link": "https://www.swiggy.com/city/hampi"
                 },
                 {
                   "text": "Nainital",
-                  "link": "https://www.swiggy.com/city/nainital"
+                  // "link": "https://www.swiggy.com/city/nainital"
                 },
                 {
                   "text": "Akola",
-                  "link": "https://www.swiggy.com/city/akola"
+                  // "link": "https://www.swiggy.com/city/akola"
                 },
                 {
                   "text": "Kalaburagi",
-                  "link": "https://www.swiggy.com/city/kalaburagi"
+                  // "link": "https://www.swiggy.com/city/kalaburagi"
                 },
                 {
                   "text": "Gaya",
-                  "link": "https://www.swiggy.com/city/gaya"
+                  // "link": "https://www.swiggy.com/city/gaya"
                 },
                 {
                   "text": "Muzaffarnagar",
-                  "link": "https://www.swiggy.com/city/muzaffarnagar"
+                  // "link": "https://www.swiggy.com/city/muzaffarnagar"
                 },
                 {
                   "text": "Dewas",
-                  "link": "https://www.swiggy.com/city/dewas"
+                  // "link": "https://www.swiggy.com/city/dewas"
                 },
                 {
                   "text": "Korba",
-                  "link": "https://www.swiggy.com/city/korba"
+                  // "link": "https://www.swiggy.com/city/korba"
                 },
                 {
                   "text": "Mussoorie",
-                  "link": "https://www.swiggy.com/city/mussoorie"
+                  // "link": "https://www.swiggy.com/city/mussoorie"
                 },
                 {
                   "text": "Jalgaon",
-                  "link": "https://www.swiggy.com/city/jalgaon"
+                  // "link": "https://www.swiggy.com/city/jalgaon"
                 },
                 {
                   "text": "Yamuna Nagar",
-                  "link": "https://www.swiggy.com/city/yamuna-nagar"
+                  // "link": "https://www.swiggy.com/city/yamuna-nagar"
                 },
                 {
                   "text": "Bhagalpur",
-                  "link": "https://www.swiggy.com/city/bhagalpur"
+                  // "link": "https://www.swiggy.com/city/bhagalpur"
                 },
                 {
                   "text": "Hapur",
-                  "link": "https://www.swiggy.com/city/hapur"
+                  // "link": "https://www.swiggy.com/city/hapur"
                 },
                 {
                   "text": "Morena",
-                  "link": "https://www.swiggy.com/city/morena"
+                  // "link": "https://www.swiggy.com/city/morena"
                 },
                 {
                   "text": "Hassan",
-                  "link": "https://www.swiggy.com/city/hassan"
+                  // "link": "https://www.swiggy.com/city/hassan"
                 },
                 {
                   "text": "Hisar",
-                  "link": "https://www.swiggy.com/city/hisar"
+                  // "link": "https://www.swiggy.com/city/hisar"
                 },
                 {
                   "text": "Godhra",
-                  "link": "https://www.swiggy.com/city/godhra"
+                  // "link": "https://www.swiggy.com/city/godhra"
                 },
                 {
                   "text": "Kolar ",
-                  "link": "https://www.swiggy.com/city/kolar"
+                  // "link": "https://www.swiggy.com/city/kolar"
                 },
                 {
                   "text": "Rampur",
-                  "link": "https://www.swiggy.com/city/rampur"
+                  // "link": "https://www.swiggy.com/city/rampur"
                 },
                 {
                   "text": "Sitapur",
-                  "link": "https://www.swiggy.com/city/sitapur"
+                  // "link": "https://www.swiggy.com/city/sitapur"
                 },
                 {
                   "text": "Etawah",
-                  "link": "https://www.swiggy.com/city/etawah"
+                  // "link": "https://www.swiggy.com/city/etawah"
                 },
                 {
                   "text": "Porbandar",
-                  "link": "https://www.swiggy.com/city/porbandar"
+                  // "link": "https://www.swiggy.com/city/porbandar"
                 },
                 {
                   "text": "Nadiad",
-                  "link": "https://www.swiggy.com/city/nadiad"
+                  // "link": "https://www.swiggy.com/city/nadiad"
                 },
                 {
                   "text": "Sagar",
-                  "link": "https://www.swiggy.com/city/sagar"
+                  // "link": "https://www.swiggy.com/city/sagar"
                 },
                 {
                   "text": "Morbi",
-                  "link": "https://www.swiggy.com/city/morbi"
+                  // "link": "https://www.swiggy.com/city/morbi"
                 },
                 {
                   "text": "Chhindwara",
-                  "link": "https://www.swiggy.com/city/chhindwara"
+                  // "link": "https://www.swiggy.com/city/chhindwara"
                 },
                 {
                   "text": "Tumakuru",
-                  "link": "https://www.swiggy.com/city/tumakuru"
+                  // "link": "https://www.swiggy.com/city/tumakuru"
                 },
                 {
                   "text": "Singrauli",
-                  "link": "https://www.swiggy.com/city/singrauli"
+                  // "link": "https://www.swiggy.com/city/singrauli"
                 },
                 {
                   "text": "Thoothukudi",
-                  "link": "https://www.swiggy.com/city/thoothukudi"
+                  // "link": "https://www.swiggy.com/city/thoothukudi"
                 },
                 {
                   "text": "Katni",
-                  "link": "https://www.swiggy.com/city/katni"
+                  // "link": "https://www.swiggy.com/city/katni"
                 },
                 {
                   "text": "Khandwa",
-                  "link": "https://www.swiggy.com/city/khandwa"
+                  // "link": "https://www.swiggy.com/city/khandwa"
                 },
                 {
                   "text": "Eluru",
-                  "link": "https://www.swiggy.com/city/eluru"
+                  // "link": "https://www.swiggy.com/city/eluru"
                 },
                 {
                   "text": "Malappuram",
-                  "link": "https://www.swiggy.com/city/malappuram"
+                  // "link": "https://www.swiggy.com/city/malappuram"
                 },
                 {
                   "text": "Dibrugarh",
-                  "link": "https://www.swiggy.com/city/dibrugarh"
+                  // "link": "https://www.swiggy.com/city/dibrugarh"
                 },
                 {
                   "text": "Deoghar",
-                  "link": "https://www.swiggy.com/city/deoghar"
+                  // "link": "https://www.swiggy.com/city/deoghar"
                 },
                 {
                   "text": "Khanna",
-                  "link": "https://www.swiggy.com/city/khanna"
+                  // "link": "https://www.swiggy.com/city/khanna"
                 },
                 {
                   "text": "Bidar",
-                  "link": "https://www.swiggy.com/city/bidar"
+                  // "link": "https://www.swiggy.com/city/bidar"
                 },
                 {
                   "text": "Madikeri",
-                  "link": "https://www.swiggy.com/city/madikeri"
+                  // "link": "https://www.swiggy.com/city/madikeri"
                 },
                 {
                   "text": "Haldwani",
-                  "link": "https://www.swiggy.com/city/haldwani"
+                  // "link": "https://www.swiggy.com/city/haldwani"
                 },
                 {
                   "text": "Farrukhabad",
-                  "link": "https://www.swiggy.com/city/farrukhabad"
+                  // "link": "https://www.swiggy.com/city/farrukhabad"
                 },
                 {
                   "text": "Malegaon",
-                  "link": "https://www.swiggy.com/city/malegaon"
+                  // "link": "https://www.swiggy.com/city/malegaon"
                 },
                 {
                   "text": "Dindigul",
-                  "link": "https://www.swiggy.com/city/dindigul"
+                  // "link": "https://www.swiggy.com/city/dindigul"
                 },
                 {
                   "text": "Shahjahanpur",
-                  "link": "https://www.swiggy.com/city/shahjahanpur"
+                  // "link": "https://www.swiggy.com/city/shahjahanpur"
                 },
                 {
                   "text": "Beed",
-                  "link": "https://www.swiggy.com/city/beed"
+                  // "link": "https://www.swiggy.com/city/beed"
                 },
                 {
                   "text": "Junagadh",
-                  "link": "https://www.swiggy.com/city/junagadh"
+                  // "link": "https://www.swiggy.com/city/junagadh"
                 },
                 {
                   "text": "Asansol",
-                  "link": "https://www.swiggy.com/city/asansol"
+                  // "link": "https://www.swiggy.com/city/asansol"
                 },
                 {
                   "text": "Beawar",
-                  "link": "https://www.swiggy.com/city/beawar"
+                  // "link": "https://www.swiggy.com/city/beawar"
                 },
                 {
                   "text": "Kishangarh",
-                  "link": "https://www.swiggy.com/city/kishangarh"
+                  // "link": "https://www.swiggy.com/city/kishangarh"
                 },
                 {
                   "text": "Parbhani",
-                  "link": "https://www.swiggy.com/city/parbhani"
+                  // "link": "https://www.swiggy.com/city/parbhani"
                 },
                 {
                   "text": "Gondia",
-                  "link": "https://www.swiggy.com/city/gondia"
+                  // "link": "https://www.swiggy.com/city/gondia"
                 },
                 {
                   "text": "Ichalkaranji",
-                  "link": "https://www.swiggy.com/city/ichalkaranji"
+                  // "link": "https://www.swiggy.com/city/ichalkaranji"
                 },
                 {
                   "text": "Jalna",
-                  "link": "https://www.swiggy.com/city/jalna"
+                  // "link": "https://www.swiggy.com/city/jalna"
                 },
                 {
                   "text": "Yavatmal",
-                  "link": "https://www.swiggy.com/city/yavatmal"
+                  // "link": "https://www.swiggy.com/city/yavatmal"
                 },
                 {
                   "text": "Shivpuri",
-                  "link": "https://www.swiggy.com/city/shivpuri"
+                  // "link": "https://www.swiggy.com/city/shivpuri"
                 },
                 {
                   "text": "Moga",
-                  "link": "https://www.swiggy.com/city/moga"
+                  // "link": "https://www.swiggy.com/city/moga"
                 },
                 {
                   "text": "Abohar",
-                  "link": "https://www.swiggy.com/city/abohar"
+                  // "link": "https://www.swiggy.com/city/abohar"
                 },
                 {
                   "text": "Adoni",
-                  "link": "https://www.swiggy.com/city/adoni"
+                  // "link": "https://www.swiggy.com/city/adoni"
                 },
                 {
                   "text": "Madanapalle",
-                  "link": "https://www.swiggy.com/city/madanapalle"
+                  // "link": "https://www.swiggy.com/city/madanapalle"
                 },
                 {
                   "text": "Tiruvannamalai",
-                  "link": "https://www.swiggy.com/city/tiruvannamalai"
+                  // "link": "https://www.swiggy.com/city/tiruvannamalai"
                 },
                 {
                   "text": "Satara",
-                  "link": "https://www.swiggy.com/city/satara"
+                  // "link": "https://www.swiggy.com/city/satara"
                 },
                 {
                   "text": "Ambur",
-                  "link": "https://www.swiggy.com/city/ambur"
+                  // "link": "https://www.swiggy.com/city/ambur"
                 },
                 {
                   "text": "Karimnagar",
-                  "link": "https://www.swiggy.com/city/karimnagar"
+                  // "link": "https://www.swiggy.com/city/karimnagar"
                 },
                 {
                   "text": "Ratlam",
-                  "link": "https://www.swiggy.com/city/ratlam"
+                  // "link": "https://www.swiggy.com/city/ratlam"
                 },
                 {
                   "text": "Moradabad",
-                  "link": "https://www.swiggy.com/city/moradabad"
+                  // "link": "https://www.swiggy.com/city/moradabad"
                 },
                 {
                   "text": "Machilipatnam",
-                  "link": "https://www.swiggy.com/city/machilipatnam"
+                  // "link": "https://www.swiggy.com/city/machilipatnam"
                 },
                 {
                   "text": "Ongole",
-                  "link": "https://www.swiggy.com/city/ongole"
+                  // "link": "https://www.swiggy.com/city/ongole"
                 },
                 {
                   "text": "Kottayam",
-                  "link": "https://www.swiggy.com/city/kottayam"
+                  // "link": "https://www.swiggy.com/city/kottayam"
                 },
                 {
                   "text": "Darbhanga",
-                  "link": "https://www.swiggy.com/city/darbhanga"
+                  // "link": "https://www.swiggy.com/city/darbhanga"
                 },
                 {
                   "text": "Kurukshetra",
-                  "link": "https://www.swiggy.com/city/kurukshetra"
+                  // "link": "https://www.swiggy.com/city/kurukshetra"
                 },
                 {
                   "text": "Unnao",
-                  "link": "https://www.swiggy.com/city/unnao"
+                  // "link": "https://www.swiggy.com/city/unnao"
                 },
                 {
                   "text": "Bulandshahr",
-                  "link": "https://www.swiggy.com/city/bulandshahr"
+                  // "link": "https://www.swiggy.com/city/bulandshahr"
                 },
                 {
                   "text": "Durgapur",
-                  "link": "https://www.swiggy.com/city/durgapur"
+                  // "link": "https://www.swiggy.com/city/durgapur"
                 },
                 {
                   "text": "Siliguri",
-                  "link": "https://www.swiggy.com/city/siliguri"
+                  // "link": "https://www.swiggy.com/city/siliguri"
                 },
                 {
                   "text": "Pali",
-                  "link": "https://www.swiggy.com/city/pali"
+                  // "link": "https://www.swiggy.com/city/pali"
                 },
                 {
                   "text": "Tadepalligudem",
-                  "link": "https://www.swiggy.com/city/tadepalligudem"
+                  // "link": "https://www.swiggy.com/city/tadepalligudem"
                 },
                 {
                   "text": "Ramagundam",
-                  "link": "https://www.swiggy.com/city/ramagundam"
+                  // "link": "https://www.swiggy.com/city/ramagundam"
                 },
                 {
                   "text": "Mahbubnagar",
-                  "link": "https://www.swiggy.com/city/mahbubnagar"
+                  // "link": "https://www.swiggy.com/city/mahbubnagar"
                 },
                 {
                   "text": "Bhiwani",
-                  "link": "https://www.swiggy.com/city/bhiwani"
+                  // "link": "https://www.swiggy.com/city/bhiwani"
                 },
                 {
                   "text": "Cuddalore",
-                  "link": "https://www.swiggy.com/city/cuddalore"
+                  // "link": "https://www.swiggy.com/city/cuddalore"
                 },
                 {
                   "text": "Kaithal",
-                  "link": "https://www.swiggy.com/city/kaithal"
+                  // "link": "https://www.swiggy.com/city/kaithal"
                 },
                 {
                   "text": "Jagtial",
-                  "link": "https://www.swiggy.com/city/jagtial"
+                  // "link": "https://www.swiggy.com/city/jagtial"
                 },
                 {
                   "text": "Palakkad",
-                  "link": "https://www.swiggy.com/city/palakkad"
+                  // "link": "https://www.swiggy.com/city/palakkad"
                 },
                 {
                   "text": "Guna",
-                  "link": "https://www.swiggy.com/city/guna"
+                  // "link": "https://www.swiggy.com/city/guna"
                 },
                 {
                   "text": "Kumbakonam",
-                  "link": "https://www.swiggy.com/city/kumbakonam"
+                  // "link": "https://www.swiggy.com/city/kumbakonam"
                 },
                 {
                   "text": "Maunath Bhanjan",
-                  "link": "https://www.swiggy.com/city/maunath-bhanjan"
+                  // "link": "https://www.swiggy.com/city/maunath-bhanjan"
                 },
                 {
                   "text": "Baripada",
-                  "link": "https://www.swiggy.com/city/baripada"
+                  // "link": "https://www.swiggy.com/city/baripada"
                 },
                 {
                   "text": "Orai",
-                  "link": "https://www.swiggy.com/city/orai"
+                  // "link": "https://www.swiggy.com/city/orai"
                 },
                 {
                   "text": "Bhadrak",
-                  "link": "https://www.swiggy.com/city/bhadrak"
+                  // "link": "https://www.swiggy.com/city/bhadrak"
                 },
                 {
                   "text": "Batala",
-                  "link": "https://www.swiggy.com/city/batala"
+                  // "link": "https://www.swiggy.com/city/batala"
                 },
                 {
                   "text": "Firozpur",
-                  "link": "https://www.swiggy.com/city/firozpur"
+                  // "link": "https://www.swiggy.com/city/firozpur"
                 },
                 {
                   "text": "Barnala",
-                  "link": "https://www.swiggy.com/city/barnala"
+                  // "link": "https://www.swiggy.com/city/barnala"
                 },
                 {
                   "text": "Raigarh",
-                  "link": "https://www.swiggy.com/city/raigarh"
+                  // "link": "https://www.swiggy.com/city/raigarh"
                 },
                 {
                   "text": "Nagaon",
-                  "link": "https://www.swiggy.com/city/nagaon"
+                  // "link": "https://www.swiggy.com/city/nagaon"
                 },
                 {
                   "text": "Mainpuri",
-                  "link": "https://www.swiggy.com/city/mainpuri"
+                  // "link": "https://www.swiggy.com/city/mainpuri"
                 },
                 {
                   "text": "Balurghat",
-                  "link": "https://www.swiggy.com/city/balurghat"
+                  // "link": "https://www.swiggy.com/city/balurghat"
                 },
                 {
                   "text": "Giridih",
-                  "link": "https://www.swiggy.com/city/giridih"
+                  // "link": "https://www.swiggy.com/city/giridih"
                 },
                 {
                   "text": "Ghazipur",
-                  "link": "https://www.swiggy.com/city/ghazipur"
+                  // "link": "https://www.swiggy.com/city/ghazipur"
                 },
                 {
                   "text": "Jagdalpur",
-                  "link": "https://www.swiggy.com/city/jagdalpur"
+                  // "link": "https://www.swiggy.com/city/jagdalpur"
                 },
                 {
                   "text": "Vidisha",
-                  "link": "https://www.swiggy.com/city/vidisha"
+                  // "link": "https://www.swiggy.com/city/vidisha"
                 },
                 {
                   "text": "Dimapur",
-                  "link": "https://www.swiggy.com/city/dimapur"
+                  // "link": "https://www.swiggy.com/city/dimapur"
                 },
                 {
                   "text": "Shikohabad",
-                  "link": "https://www.swiggy.com/city/shikohabad"
+                  // "link": "https://www.swiggy.com/city/shikohabad"
                 },
                 {
                   "text": "Imphal",
-                  "link": "https://www.swiggy.com/city/imphal"
+                  // "link": "https://www.swiggy.com/city/imphal"
                 },
                 {
                   "text": "Lakhimpur",
-                  "link": "https://www.swiggy.com/city/lakhimpur"
+                  // "link": "https://www.swiggy.com/city/lakhimpur"
                 },
                 {
                   "text": "Rudrapur",
-                  "link": "https://www.swiggy.com/city/rudrapur"
+                  // "link": "https://www.swiggy.com/city/rudrapur"
                 },
                 {
                   "text": "Ambikapur",
-                  "link": "https://www.swiggy.com/city/ambikapur"
+                  // "link": "https://www.swiggy.com/city/ambikapur"
                 },
                 {
                   "text": "Rae Bareli",
-                  "link": "https://www.swiggy.com/city/rae-bareli"
+                  // "link": "https://www.swiggy.com/city/rae-bareli"
                 },
                 {
                   "text": "Tinsukia",
-                  "link": "https://www.swiggy.com/city/tinsukia"
+                  // "link": "https://www.swiggy.com/city/tinsukia"
                 },
                 {
                   "text": "Rajapalayam",
-                  "link": "https://www.swiggy.com/city/rajapalayam"
+                  // "link": "https://www.swiggy.com/city/rajapalayam"
                 },
                 {
                   "text": "Rajnandgaon",
-                  "link": "https://www.swiggy.com/city/rajnandgaon"
+                  // "link": "https://www.swiggy.com/city/rajnandgaon"
                 },
                 {
                   "text": "Kashipur",
-                  "link": "https://www.swiggy.com/city/kashipur"
+                  // "link": "https://www.swiggy.com/city/kashipur"
                 },
                 {
                   "text": "Ranibennur",
-                  "link": "https://www.swiggy.com/city/ranibennur"
+                  // "link": "https://www.swiggy.com/city/ranibennur"
                 },
                 {
                   "text": "Burhanpur",
-                  "link": "https://www.swiggy.com/city/burhanpur"
+                  // "link": "https://www.swiggy.com/city/burhanpur"
                 },
                 {
                   "text": "Bhadravati",
-                  "link": "https://www.swiggy.com/city/bhadravati"
+                  // "link": "https://www.swiggy.com/city/bhadravati"
                 },
                 {
                   "text": "Chittoor",
-                  "link": "https://www.swiggy.com/city/chittoor"
+                  // "link": "https://www.swiggy.com/city/chittoor"
                 },
                 {
                   "text": "Pudukkottai",
-                  "link": "https://www.swiggy.com/city/pudukkottai"
+                  // "link": "https://www.swiggy.com/city/pudukkottai"
                 },
                 {
                   "text": "Hardoi",
-                  "link": "https://www.swiggy.com/city/hardoi"
+                  // "link": "https://www.swiggy.com/city/hardoi"
                 },
                 {
                   "text": "Basti",
-                  "link": "https://www.swiggy.com/city/basti"
+                  // "link": "https://www.swiggy.com/city/basti"
                 },
                 {
                   "text": "Karaikkudi",
-                  "link": "https://www.swiggy.com/city/karaikkudi"
+                  // "link": "https://www.swiggy.com/city/karaikkudi"
                 },
                 {
                   "text": "Lalitpur",
-                  "link": "https://www.swiggy.com/city/lalitpur"
+                  // "link": "https://www.swiggy.com/city/lalitpur"
                 },
                 {
                   "text": "Hospet",
-                  "link": "https://www.swiggy.com/city/hospet"
+                  // "link": "https://www.swiggy.com/city/hospet"
                 },
                 {
                   "text": "Budaun",
-                  "link": "https://www.swiggy.com/city/budaun"
+                  // "link": "https://www.swiggy.com/city/budaun"
                 },
                 {
                   "text": "Neemuch",
-                  "link": "https://www.swiggy.com/city/neemuch"
+                  // "link": "https://www.swiggy.com/city/neemuch"
                 },
                 {
                   "text": "Pilibhit",
-                  "link": "https://www.swiggy.com/city/pilibhit"
+                  // "link": "https://www.swiggy.com/city/pilibhit"
                 },
                 {
                   "text": "Barshi",
-                  "link": "https://www.swiggy.com/city/barshi"
+                  // "link": "https://www.swiggy.com/city/barshi"
                 },
                 {
                   "text": "Sri Ganganagar",
-                  "link": "https://www.swiggy.com/city/sri-ganganagar"
+                  // "link": "https://www.swiggy.com/city/sri-ganganagar"
                 },
                 {
                   "text": "Wardha",
-                  "link": "https://www.swiggy.com/city/wardha"
+                  // "link": "https://www.swiggy.com/city/wardha"
                 },
                 {
                   "text": "Sehore",
-                  "link": "https://www.swiggy.com/city/sehore"
+                  // "link": "https://www.swiggy.com/city/sehore"
                 },
                 {
                   "text": "Bhimavaram",
-                  "link": "https://www.swiggy.com/city/bhimavaram"
+                  // "link": "https://www.swiggy.com/city/bhimavaram"
                 },
                 {
                   "text": "Hanumangarh",
-                  "link": "https://www.swiggy.com/city/hanumangarh"
+                  // "link": "https://www.swiggy.com/city/hanumangarh"
                 },
                 {
                   "text": "Pathankot",
-                  "link": "https://www.swiggy.com/city/pathankot"
+                  // "link": "https://www.swiggy.com/city/pathankot"
                 },
                 {
                   "text": "Puri",
-                  "link": "https://www.swiggy.com/city/puri"
+                  // "link": "https://www.swiggy.com/city/puri"
                 },
                 {
                   "text": "Fatehpur",
-                  "link": "https://www.swiggy.com/city/fatehpur"
+                  // "link": "https://www.swiggy.com/city/fatehpur"
                 },
                 {
                   "text": "Surendranagar Dudhrej",
-                  "link": "https://www.swiggy.com/city/surendranagar-dudhrej"
+                  // "link": "https://www.swiggy.com/city/surendranagar-dudhrej"
                 },
                 {
                   "text": "Jamnagar",
-                  "link": "https://www.swiggy.com/city/jamnagar"
+                  // "link": "https://www.swiggy.com/city/jamnagar"
                 },
                 {
                   "text": "Bhuj",
-                  "link": "https://www.swiggy.com/city/bhuj"
+                  // "link": "https://www.swiggy.com/city/bhuj"
                 },
                 {
                   "text": "Gandhidham",
-                  "link": "https://www.swiggy.com/city/gandhidham"
+                  // "link": "https://www.swiggy.com/city/gandhidham"
                 },
                 {
                   "text": "Bharuch",
-                  "link": "https://www.swiggy.com/city/bharuch"
+                  // "link": "https://www.swiggy.com/city/bharuch"
                 },
                 {
                   "text": "Navsari",
-                  "link": "https://www.swiggy.com/city/navsari"
+                  // "link": "https://www.swiggy.com/city/navsari"
                 },
                 {
                   "text": "Amreli",
-                  "link": "https://www.swiggy.com/city/amreli"
+                  // "link": "https://www.swiggy.com/city/amreli"
                 },
                 {
                   "text": "Palanpur",
-                  "link": "https://www.swiggy.com/city/palanpur"
+                  // "link": "https://www.swiggy.com/city/palanpur"
                 },
                 {
                   "text": "Bhilwara",
-                  "link": "https://www.swiggy.com/city/bhilwara"
+                  // "link": "https://www.swiggy.com/city/bhilwara"
                 },
                 {
                   "text": "Suratgarh",
-                  "link": "https://www.swiggy.com/city/suratgarh"
+                  // "link": "https://www.swiggy.com/city/suratgarh"
                 },
                 {
                   "text": "Sikar",
-                  "link": "https://www.swiggy.com/city/sikar"
+                  // "link": "https://www.swiggy.com/city/sikar"
                 },
                 {
                   "text": "Churu",
-                  "link": "https://www.swiggy.com/city/churu"
+                  // "link": "https://www.swiggy.com/city/churu"
                 },
                 {
                   "text": "Alwar",
-                  "link": "https://www.swiggy.com/city/alwar"
+                  // "link": "https://www.swiggy.com/city/alwar"
                 },
                 {
                   "text": "Bhiwadi",
-                  "link": "https://www.swiggy.com/city/bhiwadi"
+                  // "link": "https://www.swiggy.com/city/bhiwadi"
                 },
                 {
                   "text": "Bharatpur",
-                  "link": "https://www.swiggy.com/city/bharatpur"
+                  // "link": "https://www.swiggy.com/city/bharatpur"
                 },
                 {
                   "text": "Mount Abu",
-                  "link": "https://www.swiggy.com/city/mount-abu"
+                  // "link": "https://www.swiggy.com/city/mount-abu"
                 },
                 {
                   "text": "Bundi",
-                  "link": "https://www.swiggy.com/city/bundi"
+                  // "link": "https://www.swiggy.com/city/bundi"
                 },
                 {
                   "text": "Sawai Madhopur",
-                  "link": "https://www.swiggy.com/city/sawai-madhopur"
+                  // "link": "https://www.swiggy.com/city/sawai-madhopur"
                 },
                 {
                   "text": "Purulia",
-                  "link": "https://www.swiggy.com/city/purulia"
+                  // "link": "https://www.swiggy.com/city/purulia"
                 },
                 {
                   "text": "Bardhaman",
-                  "link": "https://www.swiggy.com/city/bardhaman"
+                  // "link": "https://www.swiggy.com/city/bardhaman"
                 },
                 {
                   "text": "Raniganj",
-                  "link": "https://www.swiggy.com/city/raniganj"
+                  // "link": "https://www.swiggy.com/city/raniganj"
                 },
                 {
                   "text": "Darjeeling",
-                  "link": "https://www.swiggy.com/city/darjeeling"
+                  // "link": "https://www.swiggy.com/city/darjeeling"
                 },
                 {
                   "text": "Jalpaiguri",
-                  "link": "https://www.swiggy.com/city/jalpaiguri"
+                  // "link": "https://www.swiggy.com/city/jalpaiguri"
                 },
                 {
                   "text": "Chittorgarh",
-                  "link": "https://www.swiggy.com/city/chittorgarh"
+                  // "link": "https://www.swiggy.com/city/chittorgarh"
                 },
                 {
                   "text": "Dholpur",
-                  "link": "https://www.swiggy.com/city/dholpur"
+                  // "link": "https://www.swiggy.com/city/dholpur"
                 },
                 {
                   "text": "Uluberia",
-                  "link": "https://www.swiggy.com/city/uluberia"
+                  // "link": "https://www.swiggy.com/city/uluberia"
                 },
                 {
                   "text": "Nabadwip",
-                  "link": "https://www.swiggy.com/city/nabadwip"
+                  // "link": "https://www.swiggy.com/city/nabadwip"
                 },
                 {
                   "text": "Bongaon",
-                  "link": "https://www.swiggy.com/city/bongaon"
+                  // "link": "https://www.swiggy.com/city/bongaon"
                 },
                 {
                   "text": "Kanchrapara",
-                  "link": "https://www.swiggy.com/city/kanchrapara"
+                  // "link": "https://www.swiggy.com/city/kanchrapara"
                 },
                 {
                   "text": "Habra",
-                  "link": "https://www.swiggy.com/city/habra"
+                  // "link": "https://www.swiggy.com/city/habra"
                 },
                 {
                   "text": "Firozabad",
-                  "link": "https://www.swiggy.com/city/firozabad"
+                  // "link": "https://www.swiggy.com/city/firozabad"
                 },
                 {
                   "text": "Nalgonda",
-                  "link": "https://www.swiggy.com/city/nalgonda"
+                  // "link": "https://www.swiggy.com/city/nalgonda"
                 },
                 {
                   "text": "Chandrapur",
-                  "link": "https://www.swiggy.com/city/chandrapur"
+                  // "link": "https://www.swiggy.com/city/chandrapur"
                 },
                 {
                   "text": "Bijapur",
-                  "link": "https://www.swiggy.com/city/bijapur"
+                  // "link": "https://www.swiggy.com/city/bijapur"
                 },
                 {
                   "text": "Bhusawal",
-                  "link": "https://www.swiggy.com/city/bhusawal"
+                  // "link": "https://www.swiggy.com/city/bhusawal"
                 },
                 {
                   "text": "Raichur",
-                  "link": "https://www.swiggy.com/city/raichur"
+                  // "link": "https://www.swiggy.com/city/raichur"
                 },
                 {
                   "text": "Bahraich",
-                  "link": "https://www.swiggy.com/city/bahraich"
+                  // "link": "https://www.swiggy.com/city/bahraich"
                 },
                 {
                   "text": "Azamgarh",
-                  "link": "https://www.swiggy.com/city/azamgarh"
+                  // "link": "https://www.swiggy.com/city/azamgarh"
                 },
                 {
                   "text": "Bahadurgarh",
-                  "link": "https://www.swiggy.com/city/bahadurgarh"
+                  // "link": "https://www.swiggy.com/city/bahadurgarh"
                 },
                 {
                   "text": "Jind",
-                  "link": "https://www.swiggy.com/city/jind"
+                  // "link": "https://www.swiggy.com/city/jind"
                 },
                 {
                   "text": "Rewari",
-                  "link": "https://www.swiggy.com/city/rewari"
+                  // "link": "https://www.swiggy.com/city/rewari"
                 },
                 {
                   "text": "Palwal",
-                  "link": "https://www.swiggy.com/city/palwal"
+                  // "link": "https://www.swiggy.com/city/palwal"
                 },
                 {
                   "text": "Hathras",
-                  "link": "https://www.swiggy.com/city/hathras"
+                  // "link": "https://www.swiggy.com/city/hathras"
                 },
                 {
                   "text": "Sambalpur",
-                  "link": "https://www.swiggy.com/city/sambalpur"
+                  // "link": "https://www.swiggy.com/city/sambalpur"
                 },
                 {
                   "text": "Banda",
-                  "link": "https://www.swiggy.com/city/banda"
+                  // "link": "https://www.swiggy.com/city/banda"
                 },
                 {
                   "text": "Hoshiarpur",
-                  "link": "https://www.swiggy.com/city/hoshiarpur"
+                  // "link": "https://www.swiggy.com/city/hoshiarpur"
                 },
                 {
                   "text": "Faridkot",
-                  "link": "https://www.swiggy.com/city/faridkot"
+                  // "link": "https://www.swiggy.com/city/faridkot"
                 },
                 {
                   "text": "Mandsaur",
-                  "link": "https://www.swiggy.com/city/mandsaur"
+                  // "link": "https://www.swiggy.com/city/mandsaur"
                 },
                 {
                   "text": "Suryapet",
-                  "link": "https://www.swiggy.com/city/suryapet"
+                  // "link": "https://www.swiggy.com/city/suryapet"
                 },
                 {
                   "text": "Adilabad",
-                  "link": "https://www.swiggy.com/city/adilabad"
+                  // "link": "https://www.swiggy.com/city/adilabad"
                 },
                 {
                   "text": "Narasaraopet",
-                  "link": "https://www.swiggy.com/city/narasaraopet"
+                  // "link": "https://www.swiggy.com/city/narasaraopet"
                 },
                 {
                   "text": "Faizabad",
-                  "link": "https://www.swiggy.com/city/faizabad"
+                  // "link": "https://www.swiggy.com/city/faizabad"
                 },
                 {
                   "text": "Tadpatri",
-                  "link": "https://www.swiggy.com/city/tadpatri"
+                  // "link": "https://www.swiggy.com/city/tadpatri"
                 },
                 {
                   "text": "Gonda",
-                  "link": "https://www.swiggy.com/city/gonda"
+                  // "link": "https://www.swiggy.com/city/gonda"
                 },
                 {
                   "text": "Mughalsarai",
-                  "link": "https://www.swiggy.com/city/mughalsarai"
+                  // "link": "https://www.swiggy.com/city/mughalsarai"
                 },
                 {
                   "text": "Medinipur",
-                  "link": "https://www.swiggy.com/city/medinipur"
+                  // "link": "https://www.swiggy.com/city/medinipur"
                 },
                 {
                   "text": "Nagda",
-                  "link": "https://www.swiggy.com/city/nagda"
+                  // "link": "https://www.swiggy.com/city/nagda"
                 },
                 {
                   "text": "Raiganj",
-                  "link": "https://www.swiggy.com/city/raiganj"
+                  // "link": "https://www.swiggy.com/city/raiganj"
                 },
                 {
                   "text": "Deoria City",
-                  "link": "https://www.swiggy.com/city/deoria-city"
+                  // "link": "https://www.swiggy.com/city/deoria-city"
                 },
                 {
                   "text": "Sultanpur",
-                  "link": "https://www.swiggy.com/city/sultanpur"
+                  // "link": "https://www.swiggy.com/city/sultanpur"
                 },
                 {
                   "text": "Shamli",
-                  "link": "https://www.swiggy.com/city/shamli"
+                  // "link": "https://www.swiggy.com/city/shamli"
                 },
                 {
                   "text": "Krishnanagar",
-                  "link": "https://www.swiggy.com/city/krishnanagar"
+                  // "link": "https://www.swiggy.com/city/krishnanagar"
                 },
                 {
                   "text": "Ballia",
-                  "link": "https://www.swiggy.com/city/ballia"
+                  // "link": "https://www.swiggy.com/city/ballia"
                 },
                 {
                   "text": "Guntakal",
-                  "link": "https://www.swiggy.com/city/guntakal"
+                  // "link": "https://www.swiggy.com/city/guntakal"
                 },
                 {
                   "text": "Miryalaguda",
-                  "link": "https://www.swiggy.com/city/miryalaguda"
+                  // "link": "https://www.swiggy.com/city/miryalaguda"
                 },
                 {
                   "text": "Etah",
-                  "link": "https://www.swiggy.com/city/etah"
+                  // "link": "https://www.swiggy.com/city/etah"
                 },
                 {
                   "text": "Berhampore",
-                  "link": "https://www.swiggy.com/city/berhampore"
+                  // "link": "https://www.swiggy.com/city/berhampore"
                 },
                 {
                   "text": "Gudivada",
-                  "link": "https://www.swiggy.com/city/gudivada"
+                  // "link": "https://www.swiggy.com/city/gudivada"
                 },
                 {
                   "text": "Haldia",
-                  "link": "https://www.swiggy.com/city/haldia"
+                  // "link": "https://www.swiggy.com/city/haldia"
                 },
                 {
                   "text": "Santipur",
-                  "link": "https://www.swiggy.com/city/santipur"
+                  // "link": "https://www.swiggy.com/city/santipur"
                 },
                 {
                   "text": "Basirhat",
-                  "link": "https://www.swiggy.com/city/basirhat"
+                  // "link": "https://www.swiggy.com/city/basirhat"
                 },
                 {
                   "text": "Udgir",
-                  "link": "https://www.swiggy.com/city/udgir"
+                  // "link": "https://www.swiggy.com/city/udgir"
                 },
                 {
                   "text": "Proddatur",
-                  "link": "https://www.swiggy.com/city/proddatur"
+                  // "link": "https://www.swiggy.com/city/proddatur"
                 },
                 {
                   "text": "Nagapattinam",
-                  "link": "https://www.swiggy.com/city/nagapattinam"
+                  // "link": "https://www.swiggy.com/city/nagapattinam"
                 },
                 {
                   "text": "Chikmagalur",
-                  "link": "https://www.swiggy.com/city/chikmagalur"
+                  // "link": "https://www.swiggy.com/city/chikmagalur"
                 },
                 {
                   "text": "Chandausi",
-                  "link": "https://www.swiggy.com/city/chandausi"
+                  // "link": "https://www.swiggy.com/city/chandausi"
                 },
                 {
                   "text": "Bhind",
-                  "link": "https://www.swiggy.com/city/bhind"
+                  // "link": "https://www.swiggy.com/city/bhind"
                 },
                 {
                   "text": "Mandya",
-                  "link": "https://www.swiggy.com/city/mandya"
+                  // "link": "https://www.swiggy.com/city/mandya"
                 },
                 {
                   "text": "Bagalkot",
-                  "link": "https://www.swiggy.com/city/bagalkot"
+                  // "link": "https://www.swiggy.com/city/bagalkot"
                 },
                 {
                   "text": "Nandurbar",
-                  "link": "https://www.swiggy.com/city/nandurbar"
+                  // "link": "https://www.swiggy.com/city/nandurbar"
                 },
                 {
                   "text": "Chitradurga",
-                  "link": "https://www.swiggy.com/city/chitradurga"
+                  // "link": "https://www.swiggy.com/city/chitradurga"
                 },
                 {
                   "text": "Osmanabad",
-                  "link": "https://www.swiggy.com/city/osmanabad"
+                  // "link": "https://www.swiggy.com/city/osmanabad"
                 },
                 {
                   "text": "Modinagar",
-                  "link": "https://www.swiggy.com/city/modinagar"
+                  // "link": "https://www.swiggy.com/city/modinagar"
                 },
                 {
                   "text": "Gadag-Betigeri",
-                  "link": "https://www.swiggy.com/city/gadag-betigeri"
+                  // "link": "https://www.swiggy.com/city/gadag-betigeri"
                 },
                 {
                   "text": "Hoshangabad",
-                  "link": "https://www.swiggy.com/city/hoshangabad"
+                  // "link": "https://www.swiggy.com/city/hoshangabad"
                 },
                 {
                   "text": "Jaunpur",
-                  "link": "https://www.swiggy.com/city/jaunpur"
+                  // "link": "https://www.swiggy.com/city/jaunpur"
                 },
                 {
                   "text": "Port Blair",
-                  "link": "https://www.swiggy.com/city/port-blair"
+                  // "link": "https://www.swiggy.com/city/port-blair"
                 },
                 {
                   "text": "Jorhat",
-                  "link": "https://www.swiggy.com/city/jorhat"
+                  // "link": "https://www.swiggy.com/city/jorhat"
                 },
                 {
                   "text": "Nandyal",
-                  "link": "https://www.swiggy.com/city/nandyal"
+                  // "link": "https://www.swiggy.com/city/nandyal"
                 },
                 {
                   "text": "Biharsharif",
-                  "link": "https://www.swiggy.com/city/biharsharif"
+                  // "link": "https://www.swiggy.com/city/biharsharif"
                 },
                 {
                   "text": "Buxar",
-                  "link": "https://www.swiggy.com/city/buxar"
+                  // "link": "https://www.swiggy.com/city/buxar"
                 },
                 {
                   "text": "Siwan",
-                  "link": "https://www.swiggy.com/city/siwan"
+                  // "link": "https://www.swiggy.com/city/siwan"
                 },
                 {
                   "text": "Dehri",
-                  "link": "https://www.swiggy.com/city/dehri"
+                  // "link": "https://www.swiggy.com/city/dehri"
                 },
                 {
                   "text": "Bettiah",
-                  "link": "https://www.swiggy.com/city/bettiah"
+                  // "link": "https://www.swiggy.com/city/bettiah"
                 },
                 {
                   "text": "Kishanganj",
-                  "link": "https://www.swiggy.com/city/kishanganj"
+                  // "link": "https://www.swiggy.com/city/kishanganj"
                 },
                 {
                   "text": "Saharsa",
-                  "link": "https://www.swiggy.com/city/saharsa"
+                  // "link": "https://www.swiggy.com/city/saharsa"
                 },
                 {
                   "text": "Hajipur",
-                  "link": "https://www.swiggy.com/city/hajipur"
+                  // "link": "https://www.swiggy.com/city/hajipur"
                 },
                 {
                   "text": "Motihari",
-                  "link": "https://www.swiggy.com/city/motihari"
+                  // "link": "https://www.swiggy.com/city/motihari"
                 },
                 {
                   "text": "Sasaram",
-                  "link": "https://www.swiggy.com/city/sasaram"
+                  // "link": "https://www.swiggy.com/city/sasaram"
                 },
                 {
                   "text": "Munger",
-                  "link": "https://www.swiggy.com/city/munger"
+                  // "link": "https://www.swiggy.com/city/munger"
                 },
                 {
                   "text": "Katihar",
-                  "link": "https://www.swiggy.com/city/katihar"
+                  // "link": "https://www.swiggy.com/city/katihar"
                 },
                 {
                   "text": "Arrah",
-                  "link": "https://www.swiggy.com/city/arrah"
+                  // "link": "https://www.swiggy.com/city/arrah"
                 },
                 {
                   "text": "Srikakulam",
-                  "link": "https://www.swiggy.com/city/srikakulam"
+                  // "link": "https://www.swiggy.com/city/srikakulam"
                 },
                 {
                   "text": "Begusarai",
-                  "link": "https://www.swiggy.com/city/begusarai"
+                  // "link": "https://www.swiggy.com/city/begusarai"
                 },
                 {
                   "text": "Neyveli",
-                  "link": "https://www.swiggy.com/city/neyveli"
+                  // "link": "https://www.swiggy.com/city/neyveli"
                 },
                 {
                   "text": "Waidhan",
-                  "link": "https://www.swiggy.com/city/waidhan"
+                  // "link": "https://www.swiggy.com/city/waidhan"
                 },
                 {
                   "text": "Markapur",
-                  "link": "https://www.swiggy.com/city/markapur"
+                  // "link": "https://www.swiggy.com/city/markapur"
                 },
                 {
                   "text": "Chikkaballapur",
-                  "link": "https://www.swiggy.com/city/chikkaballapur"
+                  // "link": "https://www.swiggy.com/city/chikkaballapur"
                 },
                 {
                   "text": "Bhatkal",
-                  "link": "https://www.swiggy.com/city/bhatkal"
+                  // "link": "https://www.swiggy.com/city/bhatkal"
                 },
                 {
                   "text": "Gokak",
-                  "link": "https://www.swiggy.com/city/gokak"
+                  // "link": "https://www.swiggy.com/city/gokak"
                 },
                 {
                   "text": "Itarsi",
-                  "link": "https://www.swiggy.com/city/itarsi"
+                  // "link": "https://www.swiggy.com/city/itarsi"
                 },
                 {
                   "text": "Dhar",
-                  "link": "https://www.swiggy.com/city/dhar"
+                  // "link": "https://www.swiggy.com/city/dhar"
                 },
                 {
                   "text": "Chalisgaon",
-                  "link": "https://www.swiggy.com/city/chalisgaon"
+                  // "link": "https://www.swiggy.com/city/chalisgaon"
                 },
                 {
                   "text": "Thiruvallur",
-                  "link": "https://www.swiggy.com/city/thiruvallur"
+                  // "link": "https://www.swiggy.com/city/thiruvallur"
                 },
                 {
                   "text": "Namakkal",
-                  "link": "https://www.swiggy.com/city/namakkal"
+                  // "link": "https://www.swiggy.com/city/namakkal"
                 },
                 {
                   "text": "Dharmapuri",
-                  "link": "https://www.swiggy.com/city/dharmapuri"
+                  // "link": "https://www.swiggy.com/city/dharmapuri"
                 },
                 {
                   "text": "Bhandara",
-                  "link": "https://www.swiggy.com/city/bhandara"
+                  // "link": "https://www.swiggy.com/city/bhandara"
                 },
                 {
                   "text": "Virudhunagar",
-                  "link": "https://www.swiggy.com/city/virudhunagar"
+                  // "link": "https://www.swiggy.com/city/virudhunagar"
                 },
                 {
                   "text": "Siddipet",
-                  "link": "https://www.swiggy.com/city/siddipet"
+                  // "link": "https://www.swiggy.com/city/siddipet"
                 },
                 {
                   "text": "Gadwal",
-                  "link": "https://www.swiggy.com/city/gadwal"
+                  // "link": "https://www.swiggy.com/city/gadwal"
                 },
                 {
                   "text": "Bodhan-Rural",
-                  "link": "https://www.swiggy.com/city/bodhan-rural"
+                  // "link": "https://www.swiggy.com/city/bodhan-rural"
                 },
                 {
                   "text": "Kamareddy",
-                  "link": "https://www.swiggy.com/city/kamareddy"
+                  // "link": "https://www.swiggy.com/city/kamareddy"
                 },
                 {
                   "text": "Jhunjhunu",
-                  "link": "https://www.swiggy.com/city/jhunjhunu"
+                  // "link": "https://www.swiggy.com/city/jhunjhunu"
                 },
                 {
                   "text": "Kapurthala",
-                  "link": "https://www.swiggy.com/city/kapurthala"
+                  // "link": "https://www.swiggy.com/city/kapurthala"
                 },
                 {
                   "text": "Sangrur",
-                  "link": "https://www.swiggy.com/city/sangrur"
+                  // "link": "https://www.swiggy.com/city/sangrur"
                 },
                 {
                   "text": "Gurdaspur",
-                  "link": "https://www.swiggy.com/city/gurdaspur"
+                  // "link": "https://www.swiggy.com/city/gurdaspur"
                 },
                 {
                   "text": "Ramgarh",
-                  "link": "https://www.swiggy.com/city/ramgarh"
+                  // "link": "https://www.swiggy.com/city/ramgarh"
                 },
                 {
                   "text": "Bantwal",
-                  "link": "https://www.swiggy.com/city/bantwal"
+                  // "link": "https://www.swiggy.com/city/bantwal"
                 },
                 {
                   "text": "Doddaballapura",
-                  "link": "https://www.swiggy.com/city/doddaballapura"
+                  // "link": "https://www.swiggy.com/city/doddaballapura"
                 },
                 {
                   "text": "Buldana",
-                  "link": "https://www.swiggy.com/city/buldana"
+                  // "link": "https://www.swiggy.com/city/buldana"
                 },
                 {
                   "text": "Karad",
-                  "link": "https://www.swiggy.com/city/karad"
+                  // "link": "https://www.swiggy.com/city/karad"
                 },
                 {
                   "text": "Krishnagiri",
-                  "link": "https://www.swiggy.com/city/krishnagiri"
+                  // "link": "https://www.swiggy.com/city/krishnagiri"
                 },
                 {
                   "text": "Tiptur",
-                  "link": "https://www.swiggy.com/city/tiptur"
+                  // "link": "https://www.swiggy.com/city/tiptur"
                 },
                 {
                   "text": "Bhadrachalam",
-                  "link": "https://www.swiggy.com/city/bhadrachalam"
+                  // "link": "https://www.swiggy.com/city/bhadrachalam"
                 },
                 {
                   "text": "Mancherial",
-                  "link": "https://www.swiggy.com/city/mancherial"
+                  // "link": "https://www.swiggy.com/city/mancherial"
                 },
                 {
                   "text": "Balrampur",
-                  "link": "https://www.swiggy.com/city/balrampur"
+                  // "link": "https://www.swiggy.com/city/balrampur"
                 },
                 {
                   "text": "Bharabanki",
-                  "link": "https://www.swiggy.com/city/bharabanki"
+                  // "link": "https://www.swiggy.com/city/bharabanki"
                 },
                 {
                   "text": "Malout",
-                  "link": "https://www.swiggy.com/city/malout"
+                  // "link": "https://www.swiggy.com/city/malout"
                 },
                 {
                   "text": "Fatehgarh Sahib",
-                  "link": "https://www.swiggy.com/city/fatehgarh-sahib"
+                  // "link": "https://www.swiggy.com/city/fatehgarh-sahib"
                 },
                 {
                   "text": "Ropar",
-                  "link": "https://www.swiggy.com/city/ropar"
+                  // "link": "https://www.swiggy.com/city/ropar"
                 },
                 {
                   "text": "Nangal",
-                  "link": "https://www.swiggy.com/city/nangal"
+                  // "link": "https://www.swiggy.com/city/nangal"
                 },
                 {
                   "text": "Narnaul",
-                  "link": "https://www.swiggy.com/city/narnaul"
+                  // "link": "https://www.swiggy.com/city/narnaul"
                 },
                 {
                   "text": "Naraingarh",
-                  "link": "https://www.swiggy.com/city/naraingarh"
+                  // "link": "https://www.swiggy.com/city/naraingarh"
                 },
                 {
                   "text": "Himmatnagar",
-                  "link": "https://www.swiggy.com/city/himmatnagar"
+                  // "link": "https://www.swiggy.com/city/himmatnagar"
                 },
                 {
                   "text": "Dausa",
-                  "link": "https://www.swiggy.com/city/dausa"
+                  // "link": "https://www.swiggy.com/city/dausa"
                 },
                 {
                   "text": "Jahanabad",
-                  "link": "https://www.swiggy.com/city/jahanabad"
+                  // "link": "https://www.swiggy.com/city/jahanabad"
                 },
                 {
                   "text": "Samastipur",
-                  "link": "https://www.swiggy.com/city/samastipur"
+                  // "link": "https://www.swiggy.com/city/samastipur"
                 },
                 {
                   "text": "Purnea",
-                  "link": "https://www.swiggy.com/city/purnea"
+                  // "link": "https://www.swiggy.com/city/purnea"
                 },
                 {
                   "text": "Berhampur",
-                  "link": "https://www.swiggy.com/city/berhampur"
+                  // "link": "https://www.swiggy.com/city/berhampur"
                 },
                 {
                   "text": "Malda",
-                  "link": "https://www.swiggy.com/city/malda"
+                  // "link": "https://www.swiggy.com/city/malda"
                 },
                 {
                   "text": "Tuni",
-                  "link": "https://www.swiggy.com/city/tuni"
+                  // "link": "https://www.swiggy.com/city/tuni"
                 },
                 {
                   "text": "Puttur",
-                  "link": "https://www.swiggy.com/city/puttur"
+                  // "link": "https://www.swiggy.com/city/puttur"
                 },
                 {
                   "text": "Rayachoty",
-                  "link": "https://www.swiggy.com/city/rayachoty"
+                  // "link": "https://www.swiggy.com/city/rayachoty"
                 },
                 {
                   "text": "Nirmal",
-                  "link": "https://www.swiggy.com/city/nirmal"
+                  // "link": "https://www.swiggy.com/city/nirmal"
                 },
                 {
                   "text": "Mirzapur",
-                  "link": "https://www.swiggy.com/city/mirzapur"
+                  // "link": "https://www.swiggy.com/city/mirzapur"
                 },
                 {
                   "text": "Tanuku",
-                  "link": "https://www.swiggy.com/city/tanuku"
+                  // "link": "https://www.swiggy.com/city/tanuku"
                 },
                 {
                   "text": "Dahod",
-                  "link": "https://www.swiggy.com/city/dahod"
+                  // "link": "https://www.swiggy.com/city/dahod"
                 },
                 {
                   "text": "Barmer",
-                  "link": "https://www.swiggy.com/city/barmer"
+                  // "link": "https://www.swiggy.com/city/barmer"
                 },
                 {
                   "text": "Gangapur City",
-                  "link": "https://www.swiggy.com/city/gangapur-city"
+                  // "link": "https://www.swiggy.com/city/gangapur-city"
                 },
                 {
                   "text": "Mandi Gobindgarh",
-                  "link": "https://www.swiggy.com/city/mandi-gobindgarh"
+                  // "link": "https://www.swiggy.com/city/mandi-gobindgarh"
                 },
                 {
                   "text": "Tarn Taran Sahib",
-                  "link": "https://www.swiggy.com/city/tarn-taran-sahib"
+                  // "link": "https://www.swiggy.com/city/tarn-taran-sahib"
                 },
                 {
                   "text": "Nakodar",
