@@ -1,5 +1,6 @@
 import React from 'react';
 import {useRouteError} from 'react-router-dom';
+import Navbar from './Navbar';
 
 const Error = () => {
  const err = useRouteError();
@@ -7,7 +8,9 @@ const Error = () => {
  console.log(err)
 
   return (
-    <div>Error</div>
+    <div>
+    <Navbar/>
+    Error</div>
   )
 }
 
