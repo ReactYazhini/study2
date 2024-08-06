@@ -1,23 +1,61 @@
-import logo from './logo.svg';
-import './App.css';
+import { Suspense } from "react";
+import "./App.css";
+import Body from "./components/Body";
+import Shimmerui from "./components/shimmer";
+import Lazyloading from "./components/Lazyloading";
+import About from "./components/About";
+import ProductInnerpage from "./components/ProductInnerpage";
+import Cart from "./components/Cart";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Error from "./components/Error";
+import Productlistcontainer from "./components/productListContainer";
+import Contact from "./components/Contact";
 
 function App() {
+
+  const appRouter = createBrowserRouter([
+    {
+      path: "/",
+      element: <Body />,
+      children: [
+    // },
+        {
+          path: "/",
+          element: <Productlistcontainer />,
+        },
+        {
+          path: "/Products",
+          element: (
+            <Suspense fallback={<Shimmerui />}>
+              <Lazyloading />
+            </Suspense>
+          ),
+        },
+        {
+          path: "/about",
+          element: <About />,
+        },
+        {
+          path: "/resturants/:resId",
+          element: <ProductInnerpage />,
+        },
+        {
+          path: "/cart",
+          element: <Cart />,
+        },
+        {
+          path: "/contact",
+          element: <Contact />,
+        },
+      ],
+      errorElement: <Error/>,
+    },
+  ]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <RouterProvider router={appRouter}>
+      </RouterProvider>
     </div>
   );
 }
