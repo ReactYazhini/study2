@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-orderapp/static/css/main.692e924f.css",
-    "main.js": "/react-orderapp/static/js/main.a75fec9c.js",
+    "main.js": "/react-orderapp/static/js/main.dba43b3e.js",
     "static/js/453.de08ddb9.chunk.js": "/react-orderapp/static/js/453.de08ddb9.chunk.js",
     "static/media/floating_fries.png": "/react-orderapp/static/media/floating_fries.3b9e19b8691a628312fd.png",
     "static/media/nightimg.png": "/react-orderapp/static/media/nightimg.37ff013694af74083ca3.png",
@@ -10,11 +10,11 @@
     "static/media/bottom_wave.png": "/react-orderapp/static/media/bottom_wave.ccc07d4c7eef7a3f21e1.png",
     "index.html": "/react-orderapp/index.html",
     "main.692e924f.css.map": "/react-orderapp/static/css/main.692e924f.css.map",
-    "main.a75fec9c.js.map": "/react-orderapp/static/js/main.a75fec9c.js.map",
+    "main.dba43b3e.js.map": "/react-orderapp/static/js/main.dba43b3e.js.map",
     "453.de08ddb9.chunk.js.map": "/react-orderapp/static/js/453.de08ddb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.692e924f.css",
-    "static/js/main.a75fec9c.js"
+    "static/js/main.dba43b3e.js"
   ]
 }
