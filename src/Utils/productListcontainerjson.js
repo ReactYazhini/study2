@@ -4610,118 +4610,118 @@ export const productListcontainerjson={
                       },
                       "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
                     },
-                    {
-                      "info": {
-                        "id": "67647",
-                        "name": "Sri Balaaji Arul Jothi",
-                        "cloudinaryImageId": "jzv2j1wbhg8bieird4tw",
-                        "locality": "Trichy Road",
-                        "areaName": "Ramanathapuram",
-                        "costForTwo": "₹200 for two",
-                        "cuisines": [
-                          "South Indian",
-                          "North Indian",
-                          "Chinese"
-                        ],
-                        "avgRating": 4.6,
-                        "parentId": "18396",
-                        "avgRatingString": "4.6",
-                        "totalRatingsString": "10K+",
-                        "sla": {
-                          "deliveryTime": 20,
-                          "lastMileTravel": 2.9,
-                          "serviceability": "SERVICEABLE",
-                          "slaString": "20-25 mins",
-                          "lastMileTravelString": "2.9 km",
-                          "iconType": "ICON_TYPE_EMPTY"
-                        },
-                        "availability": {
-                          "nextCloseTime": "2024-08-06 22:00:00",
-                          "opened": true
-                        },
-                        "badges": {
-                          "imageBadges": [
-                            {
-                              "imageId": "v1695133679/badges/Pure_Veg111.png",
-                              "description": "pureveg"
-                            }
-                          ]
-                        },
-                        "isOpen": true,
-                        "aggregatedDiscountInfoV2": {
+                    // {
+                    //   "info": {
+                    //     "id": "67647",
+                    //     "name": "Sri Balaaji Arul Jothi",
+                    //     "cloudinaryImageId": "jzv2j1wbhg8bieird4tw",
+                    //     "locality": "Trichy Road",
+                    //     "areaName": "Ramanathapuram",
+                    //     "costForTwo": "₹200 for two",
+                    //     "cuisines": [
+                    //       "South Indian",
+                    //       "North Indian",
+                    //       "Chinese"
+                    //     ],
+                    //     "avgRating": 4.6,
+                    //     "parentId": "18396",
+                    //     "avgRatingString": "4.6",
+                    //     "totalRatingsString": "10K+",
+                    //     "sla": {
+                    //       "deliveryTime": 20,
+                    //       "lastMileTravel": 2.9,
+                    //       "serviceability": "SERVICEABLE",
+                    //       "slaString": "20-25 mins",
+                    //       "lastMileTravelString": "2.9 km",
+                    //       "iconType": "ICON_TYPE_EMPTY"
+                    //     },
+                    //     "availability": {
+                    //       "nextCloseTime": "2024-08-06 22:00:00",
+                    //       "opened": true
+                    //     },
+                    //     "badges": {
+                    //       "imageBadges": [
+                    //         {
+                    //           "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    //           "description": "pureveg"
+                    //         }
+                    //       ]
+                    //     },
+                    //     "isOpen": true,
+                    //     "aggregatedDiscountInfoV2": {
                           
-                        },
-                        "type": "F",
-                        "badgesV2": {
-                          "entityBadges": {
-                            "imageBased": {
-                              "badgeObject": [
-                                {
-                                  "attributes": {
-                                    "description": "pureveg",
-                                    "imageId": "v1695133679/badges/Pure_Veg111.png"
-                                  }
-                                }
-                              ]
-                            },
-                            "textBased": {
+                    //     },
+                    //     "type": "F",
+                    //     "badgesV2": {
+                    //       "entityBadges": {
+                    //         "imageBased": {
+                    //           "badgeObject": [
+                    //             {
+                    //               "attributes": {
+                    //                 "description": "pureveg",
+                    //                 "imageId": "v1695133679/badges/Pure_Veg111.png"
+                    //               }
+                    //             }
+                    //           ]
+                    //         },
+                    //         "textBased": {
                               
-                            },
-                            "textExtendedBadges": {
+                    //         },
+                    //         "textExtendedBadges": {
                               
-                            }
-                          }
-                        },
-                        "orderabilityCommunication": {
-                          "title": {
+                    //         }
+                    //       }
+                    //     },
+                    //     "orderabilityCommunication": {
+                    //       "title": {
                             
-                          },
-                          "subTitle": {
+                    //       },
+                    //       "subTitle": {
                             
-                          },
-                          "message": {
+                    //       },
+                    //       "message": {
                             
-                          },
-                          "customIcon": {
+                    //       },
+                    //       "customIcon": {
                             
-                          }
-                        },
-                        "differentiatedUi": {
-                          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                          "differentiatedUiMediaDetails": {
-                            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                            "lottie": {
+                    //       }
+                    //     },
+                    //     "differentiatedUi": {
+                    //       "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                    //       "differentiatedUiMediaDetails": {
+                    //         "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                    //         "lottie": {
                               
-                            },
-                            "video": {
+                    //         },
+                    //         "video": {
                               
-                            }
-                          }
-                        },
-                        "reviewsSummary": {
+                    //         }
+                    //       }
+                    //     },
+                    //     "reviewsSummary": {
                           
-                        },
-                        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                        "restaurantOfferPresentationInfo": {
+                    //     },
+                    //     "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                    //     "restaurantOfferPresentationInfo": {
                           
-                        },
-                        "externalRatings": {
-                          "aggregatedRating": {
-                            "rating": "--"
-                          }
-                        },
-                        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                      },
-                      "analytics": {
-                        "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
-                      },
-                      "cta": {
-                        // "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
-                        "text": "RESTAURANT_MENU",
-                        "type": "WEBLINK"
-                      },
-                      "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                    }
+                    //     },
+                    //     "externalRatings": {
+                    //       "aggregatedRating": {
+                    //         "rating": "--"
+                    //       }
+                    //     },
+                    //     "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    //   },
+                    //   "analytics": {
+                    //     "context": "seo-data-00de32ff-f8b7-4a1d-b6c1-f7fc580a1673"
+                    //   },
+                    //   "cta": {
+                    //     // "link": "https://www.swiggy.com/restaurants/sri-balaaji-arul-jothi-trichy-road-ramanathapuram-coimbatore-67647",
+                    //     "text": "RESTAURANT_MENU",
+                    //     "type": "WEBLINK"
+                    //   },
+                    //   "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                    // }
                   ],
                   "theme": "SeoRestaurantListingGridWidget"
                 }

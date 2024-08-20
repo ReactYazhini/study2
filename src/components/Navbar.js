@@ -8,6 +8,7 @@ import useOnlineStatus from "../Utils/useOnlineStatus";
 import UserContext from "../Utils/UserContext";
 import { useSelector } from "react-redux";
 import { useState} from "react";
+import "react-toastify/dist/ReactToastify.css"
 
 const Menu = [
   {
@@ -160,7 +161,7 @@ const Navbar = () => {
       </div>
       {isOpen && (
         // hidden
-        <div className=" ">
+        <div className="hidden md:block">
           <ul className="md:flex md:gap-4 justify-center py-2 border-1 bg-white dark:bg-gray-800 sm:hidden">
             {Menu.map((data) => (
               <li key={data.id} className="group relative">

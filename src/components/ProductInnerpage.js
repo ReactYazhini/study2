@@ -13,7 +13,7 @@ const ProductInnerpage = () => {
  
   const [showIndex,setShowIndex] = useState(0);
 
-  console.log(productInfo);
+  // console.log(productInfo);
   let catogeryPath =
     productInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.filter(
       (c) =>
@@ -22,7 +22,7 @@ const ProductInnerpage = () => {
         c?.card?.card?.["@type"] ===
           "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory"
     );
-  console.log(catogeryPath, "catogerypath");
+  // console.log(catogeryPath, "catogerypath");
 
   if (
     productInfo?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[2].card

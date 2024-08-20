@@ -172,7 +172,7 @@ export const test={
               },
               "type": "F",
               "headerBanner": {
-                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/67647"
+                // "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/67647"
               },
               "expectationNotifiers": [
                 {

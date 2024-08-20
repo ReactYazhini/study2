@@ -26,11 +26,12 @@ const RestorentCatogery = ({ data, showItems, setShowIndex }) => {
           )}
         </div>
         {innerIteamCard?.length > 0 &&
-          innerIteamCard?.map((categories) =>
+          innerIteamCard?.map((categories,i) =>
             showItems && categories?.card?.info ? (
               <FoodCard
                 key={categories?.card?.info?.id}
                 data={categories?.card?.info}
+                index={i}
               />
             ) : (
               categories?.itemCards?.map((innerNestedIteamCards, index) => (
@@ -55,6 +56,7 @@ const RestorentCatogery = ({ data, showItems, setShowIndex }) => {
                     <FoodCard
                       data={innerNestedIteamCards?.card?.info}
                       key={innerNestedIteamCards?.card?.info?.id}
+                      index = {i}
                     />
                   )}
                 </div>
