@@ -7,6 +7,7 @@ import useOnlineStatus from "../Utils/useOnlineStatus";
 import { FaSearchengin } from "react-icons/fa6";
 import { LuSearchX } from "react-icons/lu";
 import { productListcontainerjson } from "../Utils/productListcontainerjson";
+import {test} from "../Utils/namedexport"
 
 // let productJSON = productjson;
 
@@ -22,7 +23,6 @@ const Productlistcontainer = () => {
 
   React.useEffect(() => {
     fetchData();
-    console.log("test");
   }, []);
 
   const fetchData = async () => {

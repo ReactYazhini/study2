@@ -1,6 +1,7 @@
 import { useDispatch, useSelector } from "react-redux";
 import FoodCard from "./FoodCard";
 import { clearCart } from "../Utils/cartSlice";
+import RestorentCatogery from "./RestorentCatogery";
 
 const Cart = () => {
   const cartItems = useSelector((store) => store.cart.items);
@@ -27,8 +28,8 @@ const Cart = () => {
         {cartItems.length === 0 && <h1 className="text-center pt-5 text-accent font-bold">Your Cart is Empty!!! </h1>}
         
         {cartItems.length > 0 &&
-          cartItems.map((cartItems) => (
-            <FoodCard key={cartItems?.id} data={cartItems} />
+          cartItems.map((cartItems,index) => (
+            <FoodCard key={cartItems?.id} data={cartItems} index={index}/>
           ))
           }
       </div>

@@ -1,30 +1,62 @@
-import { useDispatch } from "react-redux";
-import { addItem,removeItem } from "../Utils/cartSlice";
+import { useDispatch, useSelector } from "react-redux";
+import { addItem, removeItem } from "../Utils/cartSlice";
 import { FaStar } from "react-icons/fa";
-import { useState } from "react";
+import { useReducer, useState } from "react";
 
-const FoodCard = ({ data }) => {
+const FoodCard = ({ data, index }) => {
+  // console.log(index,"cartdata")
   const [itemAdded, setItemAdded] = useState([]);
-  // const items = useSelector(state => state.card.items);
+  const ItemsCount = useSelector((store) => store.cart.items);
 
   //Dispatch add items
   const dispatch = useDispatch();
   const handleAddItem = (items) => {
-    dispatch(addItem(items));
+    dispatch(
+      addItem({
+        id: items?.id,
+        name: items?.name,
+        price: items?.price,
+        imageId: items?.imageId,
+      })
+    );
   };
 
+  const cartRedfn = (state, action) => {
+    switch (action.type) {
+      case "INC":
+        return { count: state.count + 1 };
+      case "DEC":
+        return { count: state.count - 1 };
+    }
+  };
+
+  const [state, cartdispatch] = useReducer(cartRedfn, { count: 0 });
+
   const removeItems = (items) => {
-    console.log(items,"removed");
+    console.log(items, "removed");
     dispatch(removeItem(items));
+  };
+
+  const qtyFun = (data) => {
+    const localItems = JSON.parse(localStorage.getItem("items") || []);
+    const qtyfind = localItems && localItems.find((i) => i?.id === data?.id);
+    const qtyValue = qtyfind
+      ? qtyfind?.qty
+      : state.count <= 0
+      ? (state.count = 0)
+      : state.count;
+    return qtyValue;
+    console.log(qtyValue);
+    // console.log(JSON.parse(localStorage.getItem("items")).filter(items => (data?.id === items?.id) ? console.log(items?.qty,"qty")
   };
 
   return (
     <div
-      className="grid grid-cols-12 drop-shadow-xl rounded-md p-5 bg-white align-middle dark:bg-gray-900 mb-3"
+      className=" grid grid-cols-12 drop-shadow-xl rounded-md p-5 bg-white align-middle dark:bg-gray-900 mb-3"
       key={data?.id}
     >
       {/* Name  */}
-      <div className="col-span-10">
+      <div className="md:col-span-10 col-span-8">
         <h4 className="dark:text-white font-medium">{data?.name}</h4>
 
         {/* Price  */}
@@ -58,7 +90,7 @@ const FoodCard = ({ data }) => {
       </div>
 
       {/* Img  */}
-      <div className="col-span-2 justify-center align-middle">
+      <div className="md:col-span-2 justify-center align-middle col-span-4">
         {data?.imageId !== undefined ? (
           <img
             className="rounded-lg shadow-xl"
@@ -70,12 +102,32 @@ const FoodCard = ({ data }) => {
         ) : null}
 
         <div className="grid justify-center -mt-3">
+          <div className="rounded-md px-3 py-1 bg-white shadow-md  mx-auto text-xs font-bold">
             <button
-              className="rounded-md px-3 py-1 bg-white shadow-md text-green-500 mx-auto text-xs font-bold"
-              onClick={() => handleAddItem(data)}
+              className="mr-2 text-green-500 text-md"
+              onClick={() => {
+                handleAddItem(data);
+                cartdispatch({ type: "INC" });
+              }}
             >
-              ADD +
+              +
             </button>
+            {localStorage.getItem("items").length > 0
+              ? qtyFun(data)
+              : (state.count <= 0
+              ? state.count = 0
+              : state.count)}
+
+            <button
+              className="ml-2 text-red-500 font-weight-bold text-lg"
+              onClick={() => {
+                removeItems(data);
+                cartdispatch({ type: "DEC" });
+              }}
+            >
+              -
+            </button>
+          </div>
         </div>
       </div>
     </div>

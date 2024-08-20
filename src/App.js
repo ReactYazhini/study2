@@ -26,9 +26,9 @@ function App() {
         {
           path: "/Products",
           element: (
-            <Suspense fallback={<Shimmerui />}>
+            // <Suspense fallback={<Shimmerui />}>
               <Lazyloading />
-            </Suspense>
+            // </Suspense>
           ),
         },
         {
